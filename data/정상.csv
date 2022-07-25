@@ -1,0 +1,1539 @@
+파일번호(File_No),파일명(File_Name),파일저장경로(Directory),대상물번호(Obj_Num),촬영각도(Cam_Ang),촬영시각(Date_Time),부위(Obj_Type),실외온도(Out_Temp),실외습도(Out_Hum),실내온도(In_Temp),실내습도(In_Hum),실내조도(In_Illum),실제판독명(Act_Diag)
+1,a1_3(1).jpg,https://www.bigdatahub.go.kr/images/disease/,3,1,2020-09-24 15:19,2,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+2,a1_3(2).jpg,https://www.bigdatahub.go.kr/images/disease/,3,2,2020-09-24 15:19,2,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+3,a1_3(3).jpg,https://www.bigdatahub.go.kr/images/disease/,3,3,2020-09-24 15:19,2,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+4,a1_21(1).jpg,https://www.bigdatahub.go.kr/images/disease/,21,1,2020-09-24 15:19,3,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+5,a1_22(1).jpg,https://www.bigdatahub.go.kr/images/disease/,22,1,2020-09-24 15:19,2,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+6,a1_22(2).jpg,https://www.bigdatahub.go.kr/images/disease/,22,2,2020-09-24 15:19,2,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+7,a1_22(3).jpg,https://www.bigdatahub.go.kr/images/disease/,22,3,2020-09-24 15:19,2,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+8,a1_24(1).jpg,https://www.bigdatahub.go.kr/images/disease/,24,1,2020-09-24 15:19,2,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+9,a1_24(2).jpg,https://www.bigdatahub.go.kr/images/disease/,24,2,2020-09-24 15:19,2,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+10,a1_24(3).jpg,https://www.bigdatahub.go.kr/images/disease/,24,3,2020-09-24 15:19,2,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+11,a1_25(1).jpg,https://www.bigdatahub.go.kr/images/disease/,25,1,2020-09-24 15:19,2,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+12,a1_25(2).jpg,https://www.bigdatahub.go.kr/images/disease/,25,2,2020-09-24 15:19,2,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+13,a1_25(3).jpg,https://www.bigdatahub.go.kr/images/disease/,25,3,2020-09-24 15:19,2,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+14,a1_34(1).jpg,https://www.bigdatahub.go.kr/images/disease/,34,1,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+15,a1_34(2).jpg,https://www.bigdatahub.go.kr/images/disease/,34,2,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+16,a1_34(3).jpg,https://www.bigdatahub.go.kr/images/disease/,34,3,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+17,a1_34(4).jpg,https://www.bigdatahub.go.kr/images/disease/,34,4,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+18,a1_34(5).jpg,https://www.bigdatahub.go.kr/images/disease/,34,5,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+19,a1_34(6).jpg,https://www.bigdatahub.go.kr/images/disease/,34,6,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+20,a1_34(7).jpg,https://www.bigdatahub.go.kr/images/disease/,34,7,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+21,a1_34(8).jpg,https://www.bigdatahub.go.kr/images/disease/,34,8,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+22,a1_34(9).jpg,https://www.bigdatahub.go.kr/images/disease/,34,9,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+23,a1_39(1).jpg,https://www.bigdatahub.go.kr/images/disease/,39,1,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+24,a1_39(2).jpg,https://www.bigdatahub.go.kr/images/disease/,39,2,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+25,a1_39(3).jpg,https://www.bigdatahub.go.kr/images/disease/,39,3,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+26,a1_39(4).jpg,https://www.bigdatahub.go.kr/images/disease/,39,4,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+27,a1_39(5).jpg,https://www.bigdatahub.go.kr/images/disease/,39,5,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+28,a1_39(6).jpg,https://www.bigdatahub.go.kr/images/disease/,39,6,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+29,a1_39(7).jpg,https://www.bigdatahub.go.kr/images/disease/,39,7,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+30,a1_39(8).jpg,https://www.bigdatahub.go.kr/images/disease/,39,8,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+31,a1_39(9).jpg,https://www.bigdatahub.go.kr/images/disease/,39,9,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+32,a1_44(1).jpg,https://www.bigdatahub.go.kr/images/disease/,44,1,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+33,a1_44(2).jpg,https://www.bigdatahub.go.kr/images/disease/,44,2,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+34,a1_44(3).jpg,https://www.bigdatahub.go.kr/images/disease/,44,3,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+35,a1_44(4).jpg,https://www.bigdatahub.go.kr/images/disease/,44,4,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+36,a1_44(5).jpg,https://www.bigdatahub.go.kr/images/disease/,44,5,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+37,a1_44(6).jpg,https://www.bigdatahub.go.kr/images/disease/,44,6,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+38,a1_44(7).jpg,https://www.bigdatahub.go.kr/images/disease/,44,7,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+39,a1_44(8).jpg,https://www.bigdatahub.go.kr/images/disease/,44,8,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+40,a1_44(9).jpg,https://www.bigdatahub.go.kr/images/disease/,44,9,2020-09-24 15:19,1,31.2 ℃,31.6 %,31.5 ℃,42.5 %,15030 lux,정상
+41,a1_78(1).jpg,https://www.bigdatahub.go.kr/images/disease/,78,1,2020-09-28 14:46,1,29.2 ℃,28.7 %,32.3 ℃,36.6 %,5630 lux,정상
+42,a1_78(2).jpg,https://www.bigdatahub.go.kr/images/disease/,78,2,2020-09-28 14:46,1,29.2 ℃,28.7 %,32.3 ℃,36.6 %,5630 lux,정상
+43,a1_78(3).jpg,https://www.bigdatahub.go.kr/images/disease/,78,3,2020-09-28 14:46,1,29.2 ℃,28.7 %,32.3 ℃,36.6 %,5630 lux,정상
+44,a1_78(4).jpg,https://www.bigdatahub.go.kr/images/disease/,78,4,2020-09-28 14:46,1,29.2 ℃,28.7 %,32.3 ℃,36.6 %,5630 lux,정상
+45,a1_78(5).jpg,https://www.bigdatahub.go.kr/images/disease/,78,5,2020-09-28 14:46,1,29.2 ℃,28.7 %,32.3 ℃,36.6 %,5630 lux,정상
+46,a1_78(6).jpg,https://www.bigdatahub.go.kr/images/disease/,78,6,2020-09-28 14:46,1,29.2 ℃,28.7 %,32.3 ℃,36.6 %,5630 lux,정상
+47,a1_78(7).jpg,https://www.bigdatahub.go.kr/images/disease/,78,7,2020-09-28 14:46,1,29.2 ℃,28.7 %,32.3 ℃,36.6 %,5630 lux,정상
+48,a1_78(8).jpg,https://www.bigdatahub.go.kr/images/disease/,78,8,2020-09-28 14:46,1,29.2 ℃,28.7 %,32.3 ℃,36.6 %,5630 lux,정상
+49,a1_78(9).jpg,https://www.bigdatahub.go.kr/images/disease/,78,9,2020-09-28 14:46,1,29.2 ℃,28.7 %,32.3 ℃,36.6 %,5630 lux,정상
+50,a1_79(1).jpg,https://www.bigdatahub.go.kr/images/disease/,79,1,2020-09-28 14:46,1,29.2 ℃,28.7 %,32.3 ℃,36.6 %,5630 lux,정상
+51,a1_79(2).jpg,https://www.bigdatahub.go.kr/images/disease/,79,2,2020-09-28 14:46,1,29.2 ℃,28.7 %,32.3 ℃,36.6 %,5630 lux,정상
+52,a1_79(3).jpg,https://www.bigdatahub.go.kr/images/disease/,79,3,2020-09-28 14:46,1,29.2 ℃,28.7 %,32.3 ℃,36.6 %,5630 lux,정상
+53,a1_79(4).jpg,https://www.bigdatahub.go.kr/images/disease/,79,4,2020-09-28 14:46,1,29.2 ℃,28.7 %,32.3 ℃,36.6 %,5630 lux,정상
+54,a1_79(5).jpg,https://www.bigdatahub.go.kr/images/disease/,79,5,2020-09-28 14:46,1,29.2 ℃,28.7 %,32.3 ℃,36.6 %,5630 lux,정상
+55,a1_79(6).jpg,https://www.bigdatahub.go.kr/images/disease/,79,6,2020-09-28 14:46,1,29.2 ℃,28.7 %,32.3 ℃,36.6 %,5630 lux,정상
+56,a1_79(7).jpg,https://www.bigdatahub.go.kr/images/disease/,79,7,2020-09-28 14:46,1,29.2 ℃,28.7 %,32.3 ℃,36.6 %,5630 lux,정상
+57,a1_79(8).jpg,https://www.bigdatahub.go.kr/images/disease/,79,8,2020-09-28 14:46,1,29.2 ℃,28.7 %,32.3 ℃,36.6 %,5630 lux,정상
+58,a1_79(9).jpg,https://www.bigdatahub.go.kr/images/disease/,79,9,2020-09-28 14:46,1,29.2 ℃,28.7 %,32.3 ℃,36.6 %,5630 lux,정상
+59,a1_92(1).jpg,https://www.bigdatahub.go.kr/images/disease/,92,1,2020-10-26 15:54,1,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+60,a1_92(2).jpg,https://www.bigdatahub.go.kr/images/disease/,92,2,2020-10-26 15:54,1,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+61,a1_92(3).jpg,https://www.bigdatahub.go.kr/images/disease/,92,3,2020-10-26 15:54,1,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+62,a1_92(4).jpg,https://www.bigdatahub.go.kr/images/disease/,92,4,2020-10-26 15:54,1,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+63,a1_92(5).jpg,https://www.bigdatahub.go.kr/images/disease/,92,5,2020-10-26 15:54,1,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+64,a1_92(6).jpg,https://www.bigdatahub.go.kr/images/disease/,92,6,2020-10-26 15:54,1,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+65,a1_92(7).jpg,https://www.bigdatahub.go.kr/images/disease/,92,7,2020-10-26 15:54,1,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+66,a1_92(8).jpg,https://www.bigdatahub.go.kr/images/disease/,92,8,2020-10-26 15:54,1,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+67,a1_92(9).jpg,https://www.bigdatahub.go.kr/images/disease/,92,9,2020-10-26 15:54,1,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+68,a1_93(1).jpg,https://www.bigdatahub.go.kr/images/disease/,93,1,2020-10-26 15:54,3,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+69,a1_93(2).jpg,https://www.bigdatahub.go.kr/images/disease/,93,2,2020-10-26 15:54,3,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+70,a1_93(3).jpg,https://www.bigdatahub.go.kr/images/disease/,93,3,2020-10-26 15:54,3,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+71,a1_94(1).jpg,https://www.bigdatahub.go.kr/images/disease/,94,1,2020-10-26 15:54,3,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+72,a1_94(2).jpg,https://www.bigdatahub.go.kr/images/disease/,94,2,2020-10-26 15:54,3,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+73,a1_94(3).jpg,https://www.bigdatahub.go.kr/images/disease/,94,3,2020-10-26 15:54,3,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+74,a1_94(4).jpg,https://www.bigdatahub.go.kr/images/disease/,94,4,2020-10-26 15:54,3,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+75,a1_94(5).jpg,https://www.bigdatahub.go.kr/images/disease/,94,5,2020-10-26 15:54,3,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+76,a1_94(6).jpg,https://www.bigdatahub.go.kr/images/disease/,94,6,2020-10-26 15:54,3,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+77,a1_94(7).jpg,https://www.bigdatahub.go.kr/images/disease/,94,7,2020-10-26 15:54,3,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+78,a1_94(8).jpg,https://www.bigdatahub.go.kr/images/disease/,94,8,2020-10-26 15:54,3,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+79,a1_96(1).jpg,https://www.bigdatahub.go.kr/images/disease/,96,1,2020-10-26 15:54,3,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+80,a1_97(1).jpg,https://www.bigdatahub.go.kr/images/disease/,97,1,2020-10-26 15:54,3,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+81,a1_97(2).jpg,https://www.bigdatahub.go.kr/images/disease/,97,2,2020-10-26 15:54,3,23.2 ℃,33.5 %,24.2 ℃,46.5 %,4612 lux,정상
+82,a1_99(1).jpg,https://www.bigdatahub.go.kr/images/disease/,99,1,2020-11-25 13:56,1,20.0 ℃,28.6 %,23.4 ℃,46.4 %,10410 lux,정상
+83,a1_99(2).jpg,https://www.bigdatahub.go.kr/images/disease/,99,2,2020-11-25 13:56,1,20.0 ℃,28.6 %,23.4 ℃,46.4 %,10410 lux,정상
+84,a1_99(3).jpg,https://www.bigdatahub.go.kr/images/disease/,99,3,2020-11-25 13:56,1,20.0 ℃,28.6 %,23.4 ℃,46.4 %,10410 lux,정상
+85,a1_99(4).jpg,https://www.bigdatahub.go.kr/images/disease/,99,4,2020-11-25 13:56,1,20.0 ℃,28.6 %,23.4 ℃,46.4 %,10410 lux,정상
+86,a1_99(5).jpg,https://www.bigdatahub.go.kr/images/disease/,99,5,2020-11-25 13:56,1,20.0 ℃,28.6 %,23.4 ℃,46.4 %,10410 lux,정상
+87,a1_99(6).jpg,https://www.bigdatahub.go.kr/images/disease/,99,6,2020-11-25 13:56,1,20.0 ℃,28.6 %,23.4 ℃,46.4 %,10410 lux,정상
+88,a1_99(7).jpg,https://www.bigdatahub.go.kr/images/disease/,99,7,2020-11-25 13:56,1,20.0 ℃,28.6 %,23.4 ℃,46.4 %,10410 lux,정상
+89,a1_99(8).jpg,https://www.bigdatahub.go.kr/images/disease/,99,8,2020-11-25 13:56,1,20.0 ℃,28.6 %,23.4 ℃,46.4 %,10410 lux,정상
+90,a1_99(9).jpg,https://www.bigdatahub.go.kr/images/disease/,99,9,2020-11-25 13:56,1,20.0 ℃,28.6 %,23.4 ℃,46.4 %,10410 lux,정상
+91,b1_3(1).jpg,https://www.bigdatahub.go.kr/images/disease/,3,1,‎2020‎-09-24-10:54,2,29.8 ℃,38.6 %,33.6 ℃,44.2 %,15820 lux,정상
+92,b1_4(1).jpg,https://www.bigdatahub.go.kr/images/disease/,4,1,‎2020‎-09-24-10:54,2,29.8 ℃,38.6 %,33.6 ℃,44.2 %,15820 lux,정상
+93,b1_5(1).jpg,https://www.bigdatahub.go.kr/images/disease/,5,1,‎2020‎-09-24-10:54,1,29.8 ℃,38.6 %,33.6 ℃,44.2 %,15820 lux,정상
+94,b1_5(2).jpg,https://www.bigdatahub.go.kr/images/disease/,5,2,‎2020‎-09-24-10:54,1,29.8 ℃,38.6 %,33.6 ℃,44.2 %,15820 lux,정상
+95,b1_5(3).jpg,https://www.bigdatahub.go.kr/images/disease/,5,3,‎2020‎-09-24-10:54,1,29.8 ℃,38.6 %,33.6 ℃,44.2 %,15820 lux,정상
+96,b1_5(4).jpg,https://www.bigdatahub.go.kr/images/disease/,5,4,‎2020‎-09-24-10:54,1,29.8 ℃,38.6 %,33.6 ℃,44.2 %,15820 lux,정상
+97,b1_5(5).jpg,https://www.bigdatahub.go.kr/images/disease/,5,5,‎2020‎-09-24-10:54,1,29.8 ℃,38.6 %,33.6 ℃,44.2 %,15820 lux,정상
+98,b1_5(6).jpg,https://www.bigdatahub.go.kr/images/disease/,5,6,‎2020‎-09-24-10:54,1,29.8 ℃,38.6 %,33.6 ℃,44.2 %,15820 lux,정상
+99,b1_5(7).jpg,https://www.bigdatahub.go.kr/images/disease/,5,7,‎2020‎-09-24-10:54,1,29.8 ℃,38.6 %,33.6 ℃,44.2 %,15820 lux,정상
+100,b1_5(8).jpg,https://www.bigdatahub.go.kr/images/disease/,5,8,‎2020‎-09-24-10:54,1,29.8 ℃,38.6 %,33.6 ℃,44.2 %,15820 lux,정상
+101,b1_5(9).jpg,https://www.bigdatahub.go.kr/images/disease/,5,9,‎2020‎-09-24-10:54,1,29.8 ℃,38.6 %,33.6 ℃,44.2 %,15820 lux,정상
+102,b1_7(1).jpg,https://www.bigdatahub.go.kr/images/disease/,7,1,‎2020‎-09-24-10:54,1,29.8 ℃,38.6 %,33.6 ℃,44.2 %,15820 lux,정상
+103,b1_7(2).jpg,https://www.bigdatahub.go.kr/images/disease/,7,2,‎2020‎-09-24-10:54,1,29.8 ℃,38.6 %,33.6 ℃,44.2 %,15820 lux,정상
+104,b1_7(3).jpg,https://www.bigdatahub.go.kr/images/disease/,7,3,‎2020‎-09-24-10:54,1,29.8 ℃,38.6 %,33.6 ℃,44.2 %,15820 lux,정상
+105,b1_7(4).jpg,https://www.bigdatahub.go.kr/images/disease/,7,4,‎2020‎-09-24-10:54,1,29.8 ℃,38.6 %,33.6 ℃,44.2 %,15820 lux,정상
+106,b1_7(5).jpg,https://www.bigdatahub.go.kr/images/disease/,7,5,‎2020‎-09-24-10:54,1,29.8 ℃,38.6 %,33.6 ℃,44.2 %,15820 lux,정상
+107,b1_7(6).jpg,https://www.bigdatahub.go.kr/images/disease/,7,6,‎2020‎-09-24-10:54,1,29.8 ℃,38.6 %,33.6 ℃,44.2 %,15820 lux,정상
+108,b1_7(7).jpg,https://www.bigdatahub.go.kr/images/disease/,7,7,‎2020‎-09-24-10:54,1,29.8 ℃,38.6 %,33.6 ℃,44.2 %,15820 lux,정상
+109,b1_7(8).jpg,https://www.bigdatahub.go.kr/images/disease/,7,8,‎2020‎-09-24-10:54,1,29.8 ℃,38.6 %,33.6 ℃,44.2 %,15820 lux,정상
+110,b1_7(9).jpg,https://www.bigdatahub.go.kr/images/disease/,7,9,‎2020‎-09-24-10:54,1,29.8 ℃,38.6 %,33.6 ℃,44.2 %,15820 lux,정상
+111,b1_11(1).jpg,https://www.bigdatahub.go.kr/images/disease/,11,1,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+112,b1_12(1).jpg,https://www.bigdatahub.go.kr/images/disease/,12,1,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+113,b1_15(1).jpg,https://www.bigdatahub.go.kr/images/disease/,15,1,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+114,b1_15(2).jpg,https://www.bigdatahub.go.kr/images/disease/,15,2,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+115,b1_15(3).jpg,https://www.bigdatahub.go.kr/images/disease/,15,3,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+116,b1_15(4).jpg,https://www.bigdatahub.go.kr/images/disease/,15,4,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+117,b1_15(5).jpg,https://www.bigdatahub.go.kr/images/disease/,15,5,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+118,b1_15(6).jpg,https://www.bigdatahub.go.kr/images/disease/,15,6,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+119,b1_15(7).jpg,https://www.bigdatahub.go.kr/images/disease/,15,7,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+120,b1_15(8).jpg,https://www.bigdatahub.go.kr/images/disease/,15,8,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+121,b1_15(9).jpg,https://www.bigdatahub.go.kr/images/disease/,15,9,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+122,b1_16(1).jpg,https://www.bigdatahub.go.kr/images/disease/,16,1,2020-09-28-15:12,1,29.3 ℃,30.6 %,29.6 ℃,34.3 %,10550 lux,정상
+123,b1_16(2).jpg,https://www.bigdatahub.go.kr/images/disease/,16,2,2020-09-28-15:13,1,29.3 ℃,30.6 %,29.6 ℃,34.3 %,10550 lux,정상
+124,b1_16(3).jpg,https://www.bigdatahub.go.kr/images/disease/,16,3,2020-09-28-15:14,1,29.3 ℃,30.6 %,29.6 ℃,34.3 %,10550 lux,정상
+125,b1_16(4).jpg,https://www.bigdatahub.go.kr/images/disease/,16,4,2020-09-28-15:15,1,29.3 ℃,30.6 %,29.6 ℃,34.3 %,10550 lux,정상
+126,b1_16(5).jpg,https://www.bigdatahub.go.kr/images/disease/,16,5,2020-09-28-15:16,1,29.3 ℃,30.6 %,29.6 ℃,34.3 %,10550 lux,정상
+127,b1_16(6).jpg,https://www.bigdatahub.go.kr/images/disease/,16,6,2020-09-28-15:17,1,29.3 ℃,30.6 %,29.6 ℃,34.3 %,10550 lux,정상
+128,b1_16(7).jpg,https://www.bigdatahub.go.kr/images/disease/,16,7,2020-09-28-15:18,1,29.3 ℃,30.6 %,29.6 ℃,34.3 %,10550 lux,정상
+129,b1_16(8).jpg,https://www.bigdatahub.go.kr/images/disease/,16,8,2020-09-28-15:19,1,29.3 ℃,30.6 %,29.6 ℃,34.3 %,10550 lux,정상
+130,b1_16(9).jpg,https://www.bigdatahub.go.kr/images/disease/,16,9,2020-09-28-15:20,1,29.3 ℃,30.6 %,29.6 ℃,34.3 %,10550 lux,정상
+131,b1_20(1).jpg,https://www.bigdatahub.go.kr/images/disease/,20,1,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+132,b1_20(2).jpg,https://www.bigdatahub.go.kr/images/disease/,20,2,2020-10-07-14:06,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+133,b1_20(3).jpg,https://www.bigdatahub.go.kr/images/disease/,20,3,2020-10-07-14:07,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+134,b1_20(4).jpg,https://www.bigdatahub.go.kr/images/disease/,20,4,2020-10-07-14:08,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+135,b1_20(5).jpg,https://www.bigdatahub.go.kr/images/disease/,20,5,2020-10-07-14:09,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+136,b1_20(6).jpg,https://www.bigdatahub.go.kr/images/disease/,20,6,2020-10-07-14:10,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+137,b1_20(7).jpg,https://www.bigdatahub.go.kr/images/disease/,20,7,2020-10-07-14:11,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+138,b1_20(8).jpg,https://www.bigdatahub.go.kr/images/disease/,20,8,2020-10-07-14:12,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+139,b1_20(9).jpg,https://www.bigdatahub.go.kr/images/disease/,20,9,2020-10-07-14:13,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+140,b1_21(1).jpg,https://www.bigdatahub.go.kr/images/disease/,21,1,2020-10-07-14:14,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+141,b1_21(2).jpg,https://www.bigdatahub.go.kr/images/disease/,21,2,2020-10-07-14:15,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+142,b1_21(3).jpg,https://www.bigdatahub.go.kr/images/disease/,21,3,2020-10-07-14:16,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+143,b1_21(4).jpg,https://www.bigdatahub.go.kr/images/disease/,21,4,2020-10-07-14:17,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+144,b1_21(5).jpg,https://www.bigdatahub.go.kr/images/disease/,21,5,2020-10-07-14:18,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+145,b1_21(6).jpg,https://www.bigdatahub.go.kr/images/disease/,21,6,2020-10-07-14:19,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+146,b1_21(7).jpg,https://www.bigdatahub.go.kr/images/disease/,21,7,2020-10-07-14:20,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+147,b1_21(8).jpg,https://www.bigdatahub.go.kr/images/disease/,21,8,2020-10-07-14:21,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+148,b1_21(9).jpg,https://www.bigdatahub.go.kr/images/disease/,21,9,2020-10-07-14:22,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+149,b1_24(1).jpg,https://www.bigdatahub.go.kr/images/disease/,24,1,2020-10-07-14:41,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+150,b1_24(2).jpg,https://www.bigdatahub.go.kr/images/disease/,24,2,2020-10-07-14:42,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+151,b1_24(3).jpg,https://www.bigdatahub.go.kr/images/disease/,24,3,2020-10-07-14:43,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+152,b1_24(4).jpg,https://www.bigdatahub.go.kr/images/disease/,24,4,2020-10-07-14:44,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+153,b1_24(5).jpg,https://www.bigdatahub.go.kr/images/disease/,24,5,2020-10-07-14:45,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+154,b1_24(6).jpg,https://www.bigdatahub.go.kr/images/disease/,24,6,2020-10-07-14:46,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+155,b1_24(7).jpg,https://www.bigdatahub.go.kr/images/disease/,24,7,2020-10-07-14:47,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+156,b1_24(8).jpg,https://www.bigdatahub.go.kr/images/disease/,24,8,2020-10-07-14:48,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+157,b1_24(9).jpg,https://www.bigdatahub.go.kr/images/disease/,24,9,2020-10-07-14:49,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+158,b1_26(1).jpg,https://www.bigdatahub.go.kr/images/disease/,26,1,2020-10-07-14:59,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+159,b1_26(2).jpg,https://www.bigdatahub.go.kr/images/disease/,26,2,2020-10-07-14:60,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+160,b1_26(3).jpg,https://www.bigdatahub.go.kr/images/disease/,26,3,2020-10-07-14:61,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+161,b1_26(4).jpg,https://www.bigdatahub.go.kr/images/disease/,26,4,2020-10-07-14:62,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+162,b1_26(5).jpg,https://www.bigdatahub.go.kr/images/disease/,26,5,2020-10-07-14:63,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+163,b1_26(6).jpg,https://www.bigdatahub.go.kr/images/disease/,26,6,2020-10-07-14:64,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+164,b1_26(7).jpg,https://www.bigdatahub.go.kr/images/disease/,26,7,2020-10-07-14:65,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+165,b1_26(8).jpg,https://www.bigdatahub.go.kr/images/disease/,26,8,2020-10-07-14:66,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+166,b1_26(9).jpg,https://www.bigdatahub.go.kr/images/disease/,26,9,2020-10-07-14:67,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+167,b1_27(1).jpg,https://www.bigdatahub.go.kr/images/disease/,27,1,2020-10-07-14:68,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+168,b1_27(2).jpg,https://www.bigdatahub.go.kr/images/disease/,27,2,2020-10-07-14:69,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+169,b1_27(3).jpg,https://www.bigdatahub.go.kr/images/disease/,27,3,2020-10-07-14:70,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+170,b1_27(4).jpg,https://www.bigdatahub.go.kr/images/disease/,27,4,2020-10-07-14:71,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+171,b1_27(5).jpg,https://www.bigdatahub.go.kr/images/disease/,27,5,2020-10-07-14:72,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+172,b1_27(6).jpg,https://www.bigdatahub.go.kr/images/disease/,27,6,2020-10-07-14:73,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+173,b1_27(7).jpg,https://www.bigdatahub.go.kr/images/disease/,27,7,2020-10-07-14:74,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+174,b1_27(8).jpg,https://www.bigdatahub.go.kr/images/disease/,27,8,2020-10-07-14:75,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+175,b1_27(9).jpg,https://www.bigdatahub.go.kr/images/disease/,27,9,2020-10-07-14:76,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+176,b1_28(1).jpg,https://www.bigdatahub.go.kr/images/disease/,28,1,2020-10-07-14:77,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+177,b1_28(2).jpg,https://www.bigdatahub.go.kr/images/disease/,28,2,2020-10-07-14:78,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+178,b1_28(3).jpg,https://www.bigdatahub.go.kr/images/disease/,28,3,2020-10-07-14:79,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+179,b1_28(4).jpg,https://www.bigdatahub.go.kr/images/disease/,28,4,2020-10-07-14:80,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+180,b1_28(5).jpg,https://www.bigdatahub.go.kr/images/disease/,28,5,2020-10-07-14:81,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+181,b1_28(6).jpg,https://www.bigdatahub.go.kr/images/disease/,28,6,2020-10-07-14:82,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+182,b1_28(7).jpg,https://www.bigdatahub.go.kr/images/disease/,28,7,2020-10-07-14:83,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+183,b1_28(8).jpg,https://www.bigdatahub.go.kr/images/disease/,28,8,2020-10-07-14:84,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+184,b1_28(9).jpg,https://www.bigdatahub.go.kr/images/disease/,28,9,2020-10-07-14:85,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+185,b1_29(1).jpg,https://www.bigdatahub.go.kr/images/disease/,29,1,2020-10-07-14:86,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+186,b1_29(2).jpg,https://www.bigdatahub.go.kr/images/disease/,29,2,2020-10-07-14:87,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+187,b1_29(3).jpg,https://www.bigdatahub.go.kr/images/disease/,29,3,2020-10-07-14:88,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+188,b1_29(4).jpg,https://www.bigdatahub.go.kr/images/disease/,29,4,2020-10-07-14:89,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+189,b1_29(5).jpg,https://www.bigdatahub.go.kr/images/disease/,29,5,2020-10-07-14:90,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+190,b1_29(6).jpg,https://www.bigdatahub.go.kr/images/disease/,29,6,2020-10-07-14:91,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+191,b1_29(7).jpg,https://www.bigdatahub.go.kr/images/disease/,29,7,2020-10-07-14:92,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+192,b1_29(8).jpg,https://www.bigdatahub.go.kr/images/disease/,29,8,2020-10-07-14:93,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+193,b1_29(9).jpg,https://www.bigdatahub.go.kr/images/disease/,29,9,2020-10-07-14:94,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+194,b1_30(1).jpg,https://www.bigdatahub.go.kr/images/disease/,30,1,2020-10-07-14:95,2,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+195,b1_31(1).jpg,https://www.bigdatahub.go.kr/images/disease/,31,1,2020-10-07-14:96,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+196,b1_31(2).jpg,https://www.bigdatahub.go.kr/images/disease/,31,2,2020-10-07-14:97,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+197,b1_31(3).jpg,https://www.bigdatahub.go.kr/images/disease/,31,3,2020-10-07-14:98,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+198,b1_31(4).jpg,https://www.bigdatahub.go.kr/images/disease/,31,4,2020-10-07-14:99,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+199,b1_31(5).jpg,https://www.bigdatahub.go.kr/images/disease/,31,5,2020-10-07-14:100,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+200,b1_31(6).jpg,https://www.bigdatahub.go.kr/images/disease/,31,6,2020-10-07-14:101,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+201,b1_31(7).jpg,https://www.bigdatahub.go.kr/images/disease/,31,7,2020-10-07-14:102,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+202,b1_31(8).jpg,https://www.bigdatahub.go.kr/images/disease/,31,8,2020-10-07-14:103,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+203,b1_31(9).jpg,https://www.bigdatahub.go.kr/images/disease/,31,9,2020-10-07-14:104,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+204,b1_32(1).jpg,https://www.bigdatahub.go.kr/images/disease/,32,1,2020-10-07-14:105,2,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+205,b1_32(2).jpg,https://www.bigdatahub.go.kr/images/disease/,32,2,2020-10-07-14:106,2,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+206,c1_2(1).jpg,https://www.bigdatahub.go.kr/images/disease/,2,1,2020-09-24 10:24,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+207,c1_2(2).jpg,https://www.bigdatahub.go.kr/images/disease/,2,2,2020-09-24 10:24,2,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+208,c1_2(3).jpg,https://www.bigdatahub.go.kr/images/disease/,2,3,2020-09-24 10:24,2,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+209,c1_2(4).jpg,https://www.bigdatahub.go.kr/images/disease/,2,4,2020-09-24 10:24,2,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+210,c1_3(1).jpg,https://www.bigdatahub.go.kr/images/disease/,3,1,2020-09-24 10:24,2,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+211,c1_3(2).jpg,https://www.bigdatahub.go.kr/images/disease/,3,2,2020-09-24 10:24,2,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+212,c1_3(3).jpg,https://www.bigdatahub.go.kr/images/disease/,3,3,2020-09-24 10:24,2,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+213,c1_10(1).jpg,https://www.bigdatahub.go.kr/images/disease/,10,1,2020-09-24 10:24,2,32.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+214,c1_10(2).jpg,https://www.bigdatahub.go.kr/images/disease/,10,2,2020-09-24 10:24,2,32.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+215,c1_10(3).jpg,https://www.bigdatahub.go.kr/images/disease/,10,3,2020-09-24 10:24,2,32.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+216,c1_16(1).jpg,https://www.bigdatahub.go.kr/images/disease/,16,1,2020-09-24 13:57,2,30.0 ℃,38.4 %,30.0 ℃,39.5 %,5370 lux,정상
+217,c1_16(2).jpg,https://www.bigdatahub.go.kr/images/disease/,16,2,2020-09-24 13:57,2,30.0 ℃,38.4 %,30.0 ℃,39.5 %,5370 lux,정상
+218,c1_16(3).jpg,https://www.bigdatahub.go.kr/images/disease/,16,3,2020-09-24 13:57,2,30.0 ℃,38.4 %,30.0 ℃,39.5 %,5370 lux,정상
+219,c1_17(1).jpg,https://www.bigdatahub.go.kr/images/disease/,17,1,2020-09-24 13:57,1,30.0 ℃,38.4 %,30.0 ℃,39.5 %,5370 lux,정상
+220,c1_17(2).jpg,https://www.bigdatahub.go.kr/images/disease/,17,2,2020-09-24 13:57,1,30.0 ℃,38.4 %,30.0 ℃,39.5 %,5370 lux,정상
+221,c1_17(3).jpg,https://www.bigdatahub.go.kr/images/disease/,17,3,2020-09-24 13:57,1,30.0 ℃,38.4 %,30.0 ℃,39.5 %,5370 lux,정상
+222,c1_17(4).jpg,https://www.bigdatahub.go.kr/images/disease/,17,4,2020-09-24 13:57,1,30.0 ℃,38.4 %,30.0 ℃,39.5 %,5370 lux,정상
+223,c1_17(5).jpg,https://www.bigdatahub.go.kr/images/disease/,17,5,2020-09-24 13:57,1,30.0 ℃,38.4 %,30.0 ℃,39.5 %,5370 lux,정상
+224,c1_17(6).jpg,https://www.bigdatahub.go.kr/images/disease/,17,6,2020-09-24 13:57,1,30.0 ℃,38.4 %,30.0 ℃,39.5 %,5370 lux,정상
+225,c1_17(7).jpg,https://www.bigdatahub.go.kr/images/disease/,17,7,2020-09-24 13:57,1,30.0 ℃,38.4 %,30.0 ℃,39.5 %,5370 lux,정상
+226,c1_17(8).jpg,https://www.bigdatahub.go.kr/images/disease/,17,8,2020-09-24 13:57,1,30.0 ℃,38.4 %,30.0 ℃,39.5 %,5370 lux,정상
+227,c1_17(9).jpg,https://www.bigdatahub.go.kr/images/disease/,17,9,2020-09-24 13:57,1,30.0 ℃,38.4 %,30.0 ℃,39.5 %,5370 lux,정상
+228,c1_23(1).jpg,https://www.bigdatahub.go.kr/images/disease/,23,1,2020-09-24 13:57,2,30.0 ℃,38.4 %,30.0 ℃,39.5 %,5370 lux,정상
+229,c1_23(2).jpg,https://www.bigdatahub.go.kr/images/disease/,23,2,2020-09-24 13:57,2,30.0 ℃,38.4 %,30.0 ℃,39.5 %,5370 lux,정상
+230,c1_23(3).jpg,https://www.bigdatahub.go.kr/images/disease/,23,3,2020-09-24 13:57,2,30.0 ℃,38.4 %,30.0 ℃,39.5 %,5370 lux,정상
+231,c1_28(1).jpg,https://www.bigdatahub.go.kr/images/disease/,28,1,2020-09-28 14:30,2,29.2 ℃,28.7 %,28.6 ℃,32.1 %,9910 lux,정상
+232,c1_28(2).jpg,https://www.bigdatahub.go.kr/images/disease/,28,2,2020-09-28 14:30,2,29.2 ℃,28.7 %,28.6 ℃,32.1 %,9910 lux,정상
+233,c1_32(1).jpg,https://www.bigdatahub.go.kr/images/disease/,32,1,2020-09-28 14:30,2,29.2 ℃,28.7 %,28.6 ℃,32.1 %,9910 lux,정상
+234,c1_32(2).jpg,https://www.bigdatahub.go.kr/images/disease/,32,2,2020-09-28 14:30,2,29.2 ℃,28.7 %,28.6 ℃,32.1 %,9910 lux,정상
+235,c1_32(3).jpg,https://www.bigdatahub.go.kr/images/disease/,32,3,2020-09-28 14:30,2,29.2 ℃,28.7 %,28.6 ℃,32.1 %,9910 lux,정상
+236,c1_33(1).jpg,https://www.bigdatahub.go.kr/images/disease/,33,1,2020-09-28 14:30,2,29.2 ℃,28.7 %,28.6 ℃,32.1 %,9910 lux,정상
+237,c1_33(2).jpg,https://www.bigdatahub.go.kr/images/disease/,33,2,2020-09-28 14:30,2,29.2 ℃,28.7 %,28.6 ℃,32.1 %,9910 lux,정상
+238,c1_33(3).jpg,https://www.bigdatahub.go.kr/images/disease/,33,3,2020-09-28 14:30,2,29.2 ℃,28.7 %,28.6 ℃,32.1 %,9910 lux,정상
+239,c1_35(1).jpg,https://www.bigdatahub.go.kr/images/disease/,35,1,2020-09-28 14:30,3,29.2 ℃,28.7 %,28.6 ℃,32.1 %,9910 lux,정상
+240,c1_35(2).jpg,https://www.bigdatahub.go.kr/images/disease/,35,2,2020-09-28 14:30,3,29.2 ℃,28.7 %,28.6 ℃,32.1 %,9910 lux,정상
+241,c1_35(3).jpg,https://www.bigdatahub.go.kr/images/disease/,35,3,2020-09-28 14:30,3,29.2 ℃,28.7 %,28.6 ℃,32.1 %,9910 lux,정상
+242,c1_35(4).jpg,https://www.bigdatahub.go.kr/images/disease/,35,4,2020-09-28 14:30,3,29.2 ℃,28.7 %,28.6 ℃,32.1 %,9910 lux,정상
+243,c1_41(1).jpg,https://www.bigdatahub.go.kr/images/disease/,41,1,2020-11-25 14:05,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+244,c1_41(2).jpg,https://www.bigdatahub.go.kr/images/disease/,41,2,2020-11-25 14:05,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+245,c1_41(3).jpg,https://www.bigdatahub.go.kr/images/disease/,41,3,2020-11-25 14:05,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+246,c1_41(4).jpg,https://www.bigdatahub.go.kr/images/disease/,41,4,2020-11-25 14:05,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+247,c1_41(5).jpg,https://www.bigdatahub.go.kr/images/disease/,41,5,2020-11-25 14:05,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+248,c1_41(6).jpg,https://www.bigdatahub.go.kr/images/disease/,41,6,2020-11-25 14:05,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+249,c1_41(7).jpg,https://www.bigdatahub.go.kr/images/disease/,41,7,2020-11-25 14:05,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+250,c1_41(8).jpg,https://www.bigdatahub.go.kr/images/disease/,41,8,2020-11-25 14:05,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+251,c1_41(9).jpg,https://www.bigdatahub.go.kr/images/disease/,41,9,2020-11-25 14:05,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+252,d1_1(1).jpg,https://www.bigdatahub.go.kr/images/disease/,1,1,2020-09-24 10:54,1,29.8 ℃,38.6 %,33.6 ℃,44.2 %,12960 lux,정상
+253,d1_3(1).jpg,https://www.bigdatahub.go.kr/images/disease/,3,1,2020-09-24 10:54,1,29.8 ℃,38.6 %,33.6 ℃,44.2 %,12960 lux,정상
+254,d1_21(1).jpg,https://www.bigdatahub.go.kr/images/disease/,21,1,2020-09-24 13:57,1,31.2 ℃,35.8 %,33.6 ℃,45.2 %,8620 lux,정상
+255,d1_21(2).jpg,https://www.bigdatahub.go.kr/images/disease/,21,2,2020-09-24 13:57,1,31.2 ℃,35.8 %,33.6 ℃,45.2 %,8620 lux,정상
+256,d1_21(3).jpg,https://www.bigdatahub.go.kr/images/disease/,21,3,2020-09-24 13:57,1,31.2 ℃,35.8 %,33.6 ℃,45.2 %,8620 lux,정상
+257,d1_34(1).jpg,https://www.bigdatahub.go.kr/images/disease/,34,1,2020-09-28 14:32,2,28.1 ℃,39.1 %,28.6 ℃,38.7 %,9100 lux,정상
+258,d1_43(1).jpg,https://www.bigdatahub.go.kr/images/disease/,43,1,2020-09-28 14:32,2,28.1 ℃,39.1 %,28.6 ℃,38.7 %,9100 lux,정상
+259,d1_43(2).jpg,https://www.bigdatahub.go.kr/images/disease/,43,2,2020-09-28 14:32,2,28.1 ℃,39.1 %,28.6 ℃,38.7 %,9100 lux,정상
+260,d1_43(3).jpg,https://www.bigdatahub.go.kr/images/disease/,43,3,2020-09-28 14:32,2,28.1 ℃,39.1 %,28.6 ℃,38.7 %,9100 lux,정상
+261,d1_63(1).jpg,https://www.bigdatahub.go.kr/images/disease/,63,1,2020-09-28 14:32,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+262,d1_63(2).jpg,https://www.bigdatahub.go.kr/images/disease/,63,2,2020-09-28 14:32,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+263,d1_63(3).jpg,https://www.bigdatahub.go.kr/images/disease/,63,3,2020-09-28 14:32,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+264,d1_63(4).jpg,https://www.bigdatahub.go.kr/images/disease/,63,4,2020-09-28 14:32,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+265,d1_63(5).jpg,https://www.bigdatahub.go.kr/images/disease/,63,5,2020-09-28 14:32,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+266,d1_63(6).jpg,https://www.bigdatahub.go.kr/images/disease/,63,6,2020-09-28 14:32,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+267,d1_63(7).jpg,https://www.bigdatahub.go.kr/images/disease/,63,7,2020-09-28 14:32,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+268,d1_63(8).jpg,https://www.bigdatahub.go.kr/images/disease/,63,8,2020-09-28 14:32,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+269,d1_63(9).jpg,https://www.bigdatahub.go.kr/images/disease/,63,9,2020-09-28 14:32,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+270,d1_65(1).jpg,https://www.bigdatahub.go.kr/images/disease/,65,1,2020-09-28 14:32,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+271,d1_65(2).jpg,https://www.bigdatahub.go.kr/images/disease/,65,2,2020-09-28 14:32,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+272,d1_65(3).jpg,https://www.bigdatahub.go.kr/images/disease/,65,3,2020-09-28 14:32,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+273,d1_65(4).jpg,https://www.bigdatahub.go.kr/images/disease/,65,4,2020-09-28 14:32,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+274,d1_65(5).jpg,https://www.bigdatahub.go.kr/images/disease/,65,5,2020-09-28 14:32,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+275,d1_65(6).jpg,https://www.bigdatahub.go.kr/images/disease/,65,6,2020-09-28 14:32,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+276,d1_65(7).jpg,https://www.bigdatahub.go.kr/images/disease/,65,7,2020-10-07 14:07,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+277,d1_65(8).jpg,https://www.bigdatahub.go.kr/images/disease/,65,8,2020-10-07 14:07,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+278,d1_65(9).jpg,https://www.bigdatahub.go.kr/images/disease/,65,9,2020-10-07 14:07,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+279,d1_67(1).jpg,https://www.bigdatahub.go.kr/images/disease/,67,1,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+280,d1_67(2).jpg,https://www.bigdatahub.go.kr/images/disease/,67,2,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+281,d1_67(3).jpg,https://www.bigdatahub.go.kr/images/disease/,67,3,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+282,d1_67(4).jpg,https://www.bigdatahub.go.kr/images/disease/,67,4,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+283,d1_67(5).jpg,https://www.bigdatahub.go.kr/images/disease/,67,5,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+284,d1_67(6).jpg,https://www.bigdatahub.go.kr/images/disease/,67,6,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+285,d1_67(7).jpg,https://www.bigdatahub.go.kr/images/disease/,67,7,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+286,d1_67(8).jpg,https://www.bigdatahub.go.kr/images/disease/,67,8,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+287,d1_67(9).jpg,https://www.bigdatahub.go.kr/images/disease/,67,9,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+288,d1_72(1).jpg,https://www.bigdatahub.go.kr/images/disease/,72,2,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+289,d1_76(1).jpg,https://www.bigdatahub.go.kr/images/disease/,76,1,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+290,d1_76(2).jpg,https://www.bigdatahub.go.kr/images/disease/,76,2,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+291,d1_76(3).jpg,https://www.bigdatahub.go.kr/images/disease/,76,3,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+292,d1_76(4).jpg,https://www.bigdatahub.go.kr/images/disease/,76,4,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+293,d1_76(5).jpg,https://www.bigdatahub.go.kr/images/disease/,76,5,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+294,d1_76(6).jpg,https://www.bigdatahub.go.kr/images/disease/,76,6,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+295,d1_76(7).jpg,https://www.bigdatahub.go.kr/images/disease/,76,7,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+296,d1_76(8).jpg,https://www.bigdatahub.go.kr/images/disease/,76,8,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+297,d1_76(9).jpg,https://www.bigdatahub.go.kr/images/disease/,76,9,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+298,d1_80(1).jpg,https://www.bigdatahub.go.kr/images/disease/,80,1,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+299,d1_80(2).jpg,https://www.bigdatahub.go.kr/images/disease/,80,2,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+300,d1_80(3).jpg,https://www.bigdatahub.go.kr/images/disease/,80,3,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+301,d1_80(4).jpg,https://www.bigdatahub.go.kr/images/disease/,80,4,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+302,d1_80(5).jpg,https://www.bigdatahub.go.kr/images/disease/,80,5,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+303,d1_80(6).jpg,https://www.bigdatahub.go.kr/images/disease/,80,6,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+304,d1_80(7).jpg,https://www.bigdatahub.go.kr/images/disease/,80,7,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+305,d1_80(8).jpg,https://www.bigdatahub.go.kr/images/disease/,80,8,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+306,d1_80(9).jpg,https://www.bigdatahub.go.kr/images/disease/,80,9,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+307,d1_85(1).jpg,https://www.bigdatahub.go.kr/images/disease/,85,1,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+308,d1_85(2).jpg,https://www.bigdatahub.go.kr/images/disease/,85,2,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+309,d1_85(3).jpg,https://www.bigdatahub.go.kr/images/disease/,85,3,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+310,d1_85(4).jpg,https://www.bigdatahub.go.kr/images/disease/,85,4,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+311,d1_85(5).jpg,https://www.bigdatahub.go.kr/images/disease/,85,5,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+312,d1_85(6).jpg,https://www.bigdatahub.go.kr/images/disease/,85,6,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+313,d1_85(7).jpg,https://www.bigdatahub.go.kr/images/disease/,85,7,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+314,d1_85(8).jpg,https://www.bigdatahub.go.kr/images/disease/,85,8,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+315,d1_85(9).jpg,https://www.bigdatahub.go.kr/images/disease/,85,9,2020-10-13 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+316,d1_123(1).jpg,https://www.bigdatahub.go.kr/images/disease/,123,1,2020-10-13 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+317,d1_123(2).jpg,https://www.bigdatahub.go.kr/images/disease/,123,2,2020-10-13 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+318,d1_123(3).jpg,https://www.bigdatahub.go.kr/images/disease/,123,3,2020-10-13 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+319,d1_123(4).jpg,https://www.bigdatahub.go.kr/images/disease/,123,4,2020-10-13 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+320,d1_123(5).jpg,https://www.bigdatahub.go.kr/images/disease/,123,5,2020-10-13 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+321,d1_123(6).jpg,https://www.bigdatahub.go.kr/images/disease/,123,6,2020-10-13 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+322,d1_123(7).jpg,https://www.bigdatahub.go.kr/images/disease/,123,7,2020-10-13 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+323,d1_123(8).jpg,https://www.bigdatahub.go.kr/images/disease/,123,8,2020-10-13 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+324,d1_123(9).jpg,https://www.bigdatahub.go.kr/images/disease/,123,9,2020-10-13 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+325,e1_4(1).jpg,https://www.bigdatahub.go.kr/images/disease/,4,1,2020-09-24 10:24,2,31.2 ℃,31.6 %,30.2 ℃,48.2 %,15820 lux,정상
+326,e1_5(1).jpg,https://www.bigdatahub.go.kr/images/disease/,5,1,2020-09-24 10:24,2,31.2 ℃,31.6 %,30.2 ℃,48.2 %,15820 lux,정상
+327,e1_5(2).jpg,https://www.bigdatahub.go.kr/images/disease/,5,2,2020-09-24 10:24,2,31.2 ℃,31.6 %,30.2 ℃,48.2 %,15820 lux,정상
+328,e1_23(1).jpg,https://www.bigdatahub.go.kr/images/disease/,23,1,2020-09-24 10:24,2,31.2 ℃,31.6 %,30.2 ℃,48.2 %,15820 lux,정상
+329,e1_23(2).jpg,https://www.bigdatahub.go.kr/images/disease/,23,2,2020-09-24 10:24,2,31.2 ℃,31.6 %,30.2 ℃,48.2 %,15820 lux,정상
+330,e1_40(1).jpg,https://www.bigdatahub.go.kr/images/disease/,40,1,2020-09-24 13:59,2,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+331,e1_40(2).jpg,https://www.bigdatahub.go.kr/images/disease/,40,2,2020-09-24 13:59,2,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+332,e1_77(1).jpg,https://www.bigdatahub.go.kr/images/disease/,77,1,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+333,e1_77(2).jpg,https://www.bigdatahub.go.kr/images/disease/,77,2,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+334,e1_77(3).jpg,https://www.bigdatahub.go.kr/images/disease/,77,3,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+335,e1_77(4).jpg,https://www.bigdatahub.go.kr/images/disease/,77,4,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+336,e1_77(5).jpg,https://www.bigdatahub.go.kr/images/disease/,77,5,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+337,e1_77(6).jpg,https://www.bigdatahub.go.kr/images/disease/,77,6,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+338,e1_77(7).jpg,https://www.bigdatahub.go.kr/images/disease/,77,7,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+339,e1_77(8).jpg,https://www.bigdatahub.go.kr/images/disease/,77,8,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+340,e1_77(9).jpg,https://www.bigdatahub.go.kr/images/disease/,77,9,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+341,e1_95(1).jpg,https://www.bigdatahub.go.kr/images/disease/,95,1,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+342,e1_95(2).jpg,https://www.bigdatahub.go.kr/images/disease/,95,2,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+343,e1_95(3).jpg,https://www.bigdatahub.go.kr/images/disease/,95,3,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+344,e1_95(4).jpg,https://www.bigdatahub.go.kr/images/disease/,95,4,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+345,e1_95(5).jpg,https://www.bigdatahub.go.kr/images/disease/,95,5,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+346,e1_95(6).jpg,https://www.bigdatahub.go.kr/images/disease/,95,6,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+347,e1_95(7).jpg,https://www.bigdatahub.go.kr/images/disease/,95,7,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+348,e1_95(8).jpg,https://www.bigdatahub.go.kr/images/disease/,95,8,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+349,e1_95(9).jpg,https://www.bigdatahub.go.kr/images/disease/,95,9,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+350,e1_113(1).jpg,https://www.bigdatahub.go.kr/images/disease/,113,1,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+351,e1_113(2).jpg,https://www.bigdatahub.go.kr/images/disease/,113,2,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+352,e1_113(3).jpg,https://www.bigdatahub.go.kr/images/disease/,113,3,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+353,e1_113(4).jpg,https://www.bigdatahub.go.kr/images/disease/,113,4,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+354,e1_113(5).jpg,https://www.bigdatahub.go.kr/images/disease/,113,5,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+355,e1_113(6).jpg,https://www.bigdatahub.go.kr/images/disease/,113,6,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+356,e1_113(7).jpg,https://www.bigdatahub.go.kr/images/disease/,113,7,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+357,e1_113(8).jpg,https://www.bigdatahub.go.kr/images/disease/,113,8,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+358,e1_113(9).jpg,https://www.bigdatahub.go.kr/images/disease/,113,9,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+359,e1_114(1).jpg,https://www.bigdatahub.go.kr/images/disease/,114,1,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+360,e1_114(2).jpg,https://www.bigdatahub.go.kr/images/disease/,114,2,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+361,e1_114(3).jpg,https://www.bigdatahub.go.kr/images/disease/,114,3,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+362,e1_114(4).jpg,https://www.bigdatahub.go.kr/images/disease/,114,4,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+363,e1_114(5).jpg,https://www.bigdatahub.go.kr/images/disease/,114,5,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+364,e1_114(6).jpg,https://www.bigdatahub.go.kr/images/disease/,114,6,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+365,e1_114(7).jpg,https://www.bigdatahub.go.kr/images/disease/,114,7,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+366,e1_114(8).jpg,https://www.bigdatahub.go.kr/images/disease/,114,8,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+367,e1_114(9).jpg,https://www.bigdatahub.go.kr/images/disease/,114,9,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+368,e1_132(1).jpg,https://www.bigdatahub.go.kr/images/disease/,132,1,2020-11-25 13:56,1,20.8 ℃,28.6 %,23.4 ℃,46.4 %,10410 lux,정상
+369,e1_132(2).jpg,https://www.bigdatahub.go.kr/images/disease/,132,2,2020-11-25 13:56,1,20.8 ℃,28.6 %,23.4 ℃,46.4 %,10410 lux,정상
+370,e1_132(3).jpg,https://www.bigdatahub.go.kr/images/disease/,132,3,2020-11-25 13:56,1,20.8 ℃,28.6 %,23.4 ℃,46.4 %,10410 lux,정상
+371,e1_132(4).jpg,https://www.bigdatahub.go.kr/images/disease/,132,4,2020-11-25 13:56,1,20.8 ℃,28.6 %,23.4 ℃,46.4 %,10410 lux,정상
+372,e1_132(5).jpg,https://www.bigdatahub.go.kr/images/disease/,132,5,2020-11-25 13:56,1,20.8 ℃,28.6 %,23.4 ℃,46.4 %,10410 lux,정상
+373,e1_132(6).jpg,https://www.bigdatahub.go.kr/images/disease/,132,6,2020-11-25 13:56,1,20.8 ℃,28.6 %,23.4 ℃,46.4 %,10410 lux,정상
+374,e1_132(7).jpg,https://www.bigdatahub.go.kr/images/disease/,132,7,2020-11-25 13:56,1,20.8 ℃,28.6 %,23.4 ℃,46.4 %,10410 lux,정상
+375,e1_132(8).jpg,https://www.bigdatahub.go.kr/images/disease/,132,8,2020-11-25 13:56,1,20.8 ℃,28.6 %,23.4 ℃,46.4 %,10410 lux,정상
+376,e1_132(9).jpg,https://www.bigdatahub.go.kr/images/disease/,132,9,2020-11-25 13:56,1,20.8 ℃,28.6 %,23.4 ℃,46.4 %,10410 lux,정상
+377,e1_140(1).jpg,https://www.bigdatahub.go.kr/images/disease/,140,1,2020-11-25 14:09,1,20.8 ℃,28.6 %,27.0 ℃,51.3 %,10410 lux,정상
+378,e1_140(2).jpg,https://www.bigdatahub.go.kr/images/disease/,140,2,2020-11-25 14:09,1,20.8 ℃,28.6 %,27.0 ℃,51.3 %,10410 lux,정상
+379,e1_140(3).jpg,https://www.bigdatahub.go.kr/images/disease/,140,3,2020-11-25 14:09,1,20.8 ℃,28.6 %,27.0 ℃,51.3 %,10410 lux,정상
+380,e1_140(4).jpg,https://www.bigdatahub.go.kr/images/disease/,140,4,2020-11-25 14:09,1,20.8 ℃,28.6 %,27.0 ℃,51.3 %,10410 lux,정상
+381,e1_140(5).jpg,https://www.bigdatahub.go.kr/images/disease/,140,5,2020-11-25 14:09,1,20.8 ℃,28.6 %,27.0 ℃,51.3 %,10410 lux,정상
+382,e1_140(6).jpg,https://www.bigdatahub.go.kr/images/disease/,140,6,2020-11-25 14:09,1,20.8 ℃,28.6 %,27.0 ℃,51.3 %,10410 lux,정상
+383,e1_140(7).jpg,https://www.bigdatahub.go.kr/images/disease/,140,7,2020-11-25 14:09,1,20.8 ℃,28.6 %,27.0 ℃,51.3 %,10410 lux,정상
+384,e1_140(8).jpg,https://www.bigdatahub.go.kr/images/disease/,140,8,2020-11-25 14:09,1,20.8 ℃,28.6 %,27.0 ℃,51.3 %,10410 lux,정상
+385,e1_140(9).jpg,https://www.bigdatahub.go.kr/images/disease/,140,9,2020-11-25 14:09,1,20.8 ℃,28.6 %,27.0 ℃,51.3 %,10410 lux,정상
+386,e1_149(1).jpg,https://www.bigdatahub.go.kr/images/disease/,149,1,2020-11-25 14:09,1,20.8 ℃,28.6 %,27.0 ℃,51.3 %,10410 lux,정상
+387,e1_149(2).jpg,https://www.bigdatahub.go.kr/images/disease/,149,2,2020-11-25 14:09,1,20.8 ℃,28.6 %,27.0 ℃,51.3 %,10410 lux,정상
+388,e1_149(3).jpg,https://www.bigdatahub.go.kr/images/disease/,149,3,2020-11-25 14:09,1,20.8 ℃,28.6 %,27.0 ℃,51.3 %,10410 lux,정상
+389,e1_149(4).jpg,https://www.bigdatahub.go.kr/images/disease/,149,4,2020-11-25 14:09,1,20.8 ℃,28.6 %,27.0 ℃,51.3 %,10410 lux,정상
+390,e1_149(5).jpg,https://www.bigdatahub.go.kr/images/disease/,149,5,2020-11-25 14:09,1,20.8 ℃,28.6 %,27.0 ℃,51.3 %,10410 lux,정상
+391,e1_149(6).jpg,https://www.bigdatahub.go.kr/images/disease/,149,6,2020-11-25 14:09,1,20.8 ℃,28.6 %,27.0 ℃,51.3 %,10410 lux,정상
+392,e1_149(7).jpg,https://www.bigdatahub.go.kr/images/disease/,149,7,2020-11-25 14:09,1,20.8 ℃,28.6 %,27.0 ℃,51.3 %,10410 lux,정상
+393,e1_149(8).jpg,https://www.bigdatahub.go.kr/images/disease/,149,8,2020-11-25 14:09,1,20.8 ℃,28.6 %,27.0 ℃,51.3 %,10410 lux,정상
+394,e1_149(9).jpg,https://www.bigdatahub.go.kr/images/disease/,149,9,2020-11-25 14:09,1,20.8 ℃,28.6 %,27.0 ℃,51.3 %,10410 lux,정상
+395,e1_177(1).jpg,https://www.bigdatahub.go.kr/images/disease/,177,1,2020-11-25 14:24,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+396,e1_177(2).jpg,https://www.bigdatahub.go.kr/images/disease/,177,2,2020-11-25 14:24,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+397,e1_177(3).jpg,https://www.bigdatahub.go.kr/images/disease/,177,3,2020-11-25 14:24,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+398,e1_177(4).jpg,https://www.bigdatahub.go.kr/images/disease/,177,4,2020-11-25 14:24,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+399,e1_177(5).jpg,https://www.bigdatahub.go.kr/images/disease/,177,5,2020-11-25 14:24,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+400,e1_177(6).jpg,https://www.bigdatahub.go.kr/images/disease/,177,6,2020-11-25 14:24,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+401,e1_177(7).jpg,https://www.bigdatahub.go.kr/images/disease/,177,7,2020-11-25 14:24,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+402,e1_177(8).jpg,https://www.bigdatahub.go.kr/images/disease/,177,8,2020-11-25 14:24,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+403,e1_177(9).jpg,https://www.bigdatahub.go.kr/images/disease/,177,9,2020-11-25 14:24,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+404,f1_76(1).jpg,https://www.bigdatahub.go.kr/images/disease/,76,1,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+405,f1_76(2).jpg,https://www.bigdatahub.go.kr/images/disease/,76,2,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+406,f1_76(3).jpg,https://www.bigdatahub.go.kr/images/disease/,76,3,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+407,f1_76(4).jpg,https://www.bigdatahub.go.kr/images/disease/,76,4,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+408,f1_76(5).jpg,https://www.bigdatahub.go.kr/images/disease/,76,5,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+409,f1_76(6).jpg,https://www.bigdatahub.go.kr/images/disease/,76,6,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+410,f1_76(7).jpg,https://www.bigdatahub.go.kr/images/disease/,76,7,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+411,f1_76(8).jpg,https://www.bigdatahub.go.kr/images/disease/,76,8,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+412,f1_76(9).jpg,https://www.bigdatahub.go.kr/images/disease/,76,9,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+413,f1_77(1).jpg,https://www.bigdatahub.go.kr/images/disease/,77,1,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+414,f1_77(2).jpg,https://www.bigdatahub.go.kr/images/disease/,77,2,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+415,f1_77(3).jpg,https://www.bigdatahub.go.kr/images/disease/,77,3,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+416,f1_77(4).jpg,https://www.bigdatahub.go.kr/images/disease/,77,4,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+417,f1_77(5).jpg,https://www.bigdatahub.go.kr/images/disease/,77,5,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+418,f1_77(6).jpg,https://www.bigdatahub.go.kr/images/disease/,77,6,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+419,f1_77(7).jpg,https://www.bigdatahub.go.kr/images/disease/,77,7,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+420,f1_77(8).jpg,https://www.bigdatahub.go.kr/images/disease/,77,8,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+421,f1_77(9).jpg,https://www.bigdatahub.go.kr/images/disease/,77,9,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+422,f1_78(1).jpg,https://www.bigdatahub.go.kr/images/disease/,78,1,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+423,f1_78(2).jpg,https://www.bigdatahub.go.kr/images/disease/,78,2,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+424,f1_78(3).jpg,https://www.bigdatahub.go.kr/images/disease/,78,3,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+425,f1_78(4).jpg,https://www.bigdatahub.go.kr/images/disease/,78,4,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+426,f1_78(5).jpg,https://www.bigdatahub.go.kr/images/disease/,78,5,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+427,f1_78(6).jpg,https://www.bigdatahub.go.kr/images/disease/,78,6,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+428,f1_78(7).jpg,https://www.bigdatahub.go.kr/images/disease/,78,7,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+429,f1_78(8).jpg,https://www.bigdatahub.go.kr/images/disease/,78,8,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+430,f1_78(9).jpg,https://www.bigdatahub.go.kr/images/disease/,78,9,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+431,f1_87(1).jpg,https://www.bigdatahub.go.kr/images/disease/,87,1,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+432,f1_87(2).jpg,https://www.bigdatahub.go.kr/images/disease/,87,2,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+433,f1_87(3).jpg,https://www.bigdatahub.go.kr/images/disease/,87,3,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+434,f1_87(4).jpg,https://www.bigdatahub.go.kr/images/disease/,87,4,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+435,f1_87(5).jpg,https://www.bigdatahub.go.kr/images/disease/,87,5,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+436,f1_87(6).jpg,https://www.bigdatahub.go.kr/images/disease/,87,6,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+437,f1_87(7).jpg,https://www.bigdatahub.go.kr/images/disease/,87,7,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+438,f1_87(8).jpg,https://www.bigdatahub.go.kr/images/disease/,87,8,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+439,f1_87(9).jpg,https://www.bigdatahub.go.kr/images/disease/,87,9,2020-10-07 14:04,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,10550 lux,정상
+440,f1_93(1).jpg,https://www.bigdatahub.go.kr/images/disease/,93,1,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+441,f1_93(2).jpg,https://www.bigdatahub.go.kr/images/disease/,93,2,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+442,f1_93(3).jpg,https://www.bigdatahub.go.kr/images/disease/,93,3,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+443,f1_93(4).jpg,https://www.bigdatahub.go.kr/images/disease/,93,4,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+444,f1_93(5).jpg,https://www.bigdatahub.go.kr/images/disease/,93,5,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+445,f1_93(6).jpg,https://www.bigdatahub.go.kr/images/disease/,93,6,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+446,f1_93(7).jpg,https://www.bigdatahub.go.kr/images/disease/,93,7,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+447,f1_93(8).jpg,https://www.bigdatahub.go.kr/images/disease/,93,8,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+448,f1_93(9).jpg,https://www.bigdatahub.go.kr/images/disease/,93,9,2020-10-07 14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+449,f1_95(1).jpg,https://www.bigdatahub.go.kr/images/disease/,95,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+450,f1_95(2).jpg,https://www.bigdatahub.go.kr/images/disease/,95,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+451,f1_95(3).jpg,https://www.bigdatahub.go.kr/images/disease/,95,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+452,f1_95(4).jpg,https://www.bigdatahub.go.kr/images/disease/,95,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+453,f1_95(5).jpg,https://www.bigdatahub.go.kr/images/disease/,95,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+454,f1_95(6).jpg,https://www.bigdatahub.go.kr/images/disease/,95,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+455,f1_95(7).jpg,https://www.bigdatahub.go.kr/images/disease/,95,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+456,f1_95(8).jpg,https://www.bigdatahub.go.kr/images/disease/,95,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+457,f1_95(9).jpg,https://www.bigdatahub.go.kr/images/disease/,95,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+458,f1_96(1).jpg,https://www.bigdatahub.go.kr/images/disease/,96,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+459,f1_96(2).jpg,https://www.bigdatahub.go.kr/images/disease/,96,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+460,f1_96(3).jpg,https://www.bigdatahub.go.kr/images/disease/,96,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+461,f1_96(4).jpg,https://www.bigdatahub.go.kr/images/disease/,96,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+462,f1_96(5).jpg,https://www.bigdatahub.go.kr/images/disease/,96,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+463,f1_96(6).jpg,https://www.bigdatahub.go.kr/images/disease/,96,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+464,f1_96(7).jpg,https://www.bigdatahub.go.kr/images/disease/,96,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+465,f1_96(8).jpg,https://www.bigdatahub.go.kr/images/disease/,96,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+466,f1_96(9).jpg,https://www.bigdatahub.go.kr/images/disease/,96,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+467,g1_17(1).jpg,https://www.bigdatahub.go.kr/images/disease/,17,1,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+468,g1_17(2).jpg,https://www.bigdatahub.go.kr/images/disease/,17,2,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+469,g1_17(3).jpg,https://www.bigdatahub.go.kr/images/disease/,17,3,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+470,g1_17(4).jpg,https://www.bigdatahub.go.kr/images/disease/,17,4,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+471,g1_17(5).jpg,https://www.bigdatahub.go.kr/images/disease/,17,5,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+472,g1_17(6).jpg,https://www.bigdatahub.go.kr/images/disease/,17,6,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+473,g1_17(7).jpg,https://www.bigdatahub.go.kr/images/disease/,17,7,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+474,g1_17(8).jpg,https://www.bigdatahub.go.kr/images/disease/,17,8,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+475,g1_17(9).jpg,https://www.bigdatahub.go.kr/images/disease/,17,9,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+476,g1_21(1).jpg,https://www.bigdatahub.go.kr/images/disease/,21,1,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+477,g1_21(2).jpg,https://www.bigdatahub.go.kr/images/disease/,21,2,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+478,g1_21(3).jpg,https://www.bigdatahub.go.kr/images/disease/,21,3,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+479,g1_21(4).jpg,https://www.bigdatahub.go.kr/images/disease/,21,4,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+480,g1_21(5).jpg,https://www.bigdatahub.go.kr/images/disease/,21,5,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+481,g1_21(6).jpg,https://www.bigdatahub.go.kr/images/disease/,21,6,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+482,g1_21(7).jpg,https://www.bigdatahub.go.kr/images/disease/,21,7,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+483,g1_21(8).jpg,https://www.bigdatahub.go.kr/images/disease/,21,8,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+484,g1_21(9).jpg,https://www.bigdatahub.go.kr/images/disease/,21,9,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+485,g1_22(1).jpg,https://www.bigdatahub.go.kr/images/disease/,22,1,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+486,g1_22(2).jpg,https://www.bigdatahub.go.kr/images/disease/,22,2,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+487,g1_22(3).jpg,https://www.bigdatahub.go.kr/images/disease/,22,3,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+488,g1_22(4).jpg,https://www.bigdatahub.go.kr/images/disease/,22,4,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+489,g1_22(5).jpg,https://www.bigdatahub.go.kr/images/disease/,22,5,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+490,g1_22(6).jpg,https://www.bigdatahub.go.kr/images/disease/,22,6,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+491,g1_22(7).jpg,https://www.bigdatahub.go.kr/images/disease/,22,7,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+492,g1_22(8).jpg,https://www.bigdatahub.go.kr/images/disease/,22,8,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+493,g1_22(9).jpg,https://www.bigdatahub.go.kr/images/disease/,22,9,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+494,g1_23(1).jpg,https://www.bigdatahub.go.kr/images/disease/,23,1,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+495,g1_23(2).jpg,https://www.bigdatahub.go.kr/images/disease/,23,2,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+496,g1_23(3).jpg,https://www.bigdatahub.go.kr/images/disease/,23,3,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+497,g1_23(4).jpg,https://www.bigdatahub.go.kr/images/disease/,23,4,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+498,g1_23(5).jpg,https://www.bigdatahub.go.kr/images/disease/,23,5,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+499,g1_23(6).jpg,https://www.bigdatahub.go.kr/images/disease/,23,6,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+500,g1_23(7).jpg,https://www.bigdatahub.go.kr/images/disease/,23,7,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+501,g1_23(8).jpg,https://www.bigdatahub.go.kr/images/disease/,23,8,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+502,g1_23(9).jpg,https://www.bigdatahub.go.kr/images/disease/,23,9,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+503,g1_27(1).jpg,https://www.bigdatahub.go.kr/images/disease/,27,1,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+504,g1_27(2).jpg,https://www.bigdatahub.go.kr/images/disease/,27,2,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+505,g1_27(3).jpg,https://www.bigdatahub.go.kr/images/disease/,27,3,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+506,g1_27(4).jpg,https://www.bigdatahub.go.kr/images/disease/,27,4,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+507,g1_27(5).jpg,https://www.bigdatahub.go.kr/images/disease/,27,5,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+508,g1_27(6).jpg,https://www.bigdatahub.go.kr/images/disease/,27,6,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+509,g1_27(7).jpg,https://www.bigdatahub.go.kr/images/disease/,27,7,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+510,g1_27(8).jpg,https://www.bigdatahub.go.kr/images/disease/,27,8,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+511,g1_27(9).jpg,https://www.bigdatahub.go.kr/images/disease/,27,9,2020-09-24 14:08,1,31.0 ℃,33.5 %,32.6 ℃,45.2 %,8620 lux,정상
+512,g1_64(1).jpg,https://www.bigdatahub.go.kr/images/disease/,64,1,2020-09-28 14:33,1,28.1 ℃,39.1 %,28.6 ℃,38.7 %,9100 lux,정상
+513,g1_64(2).jpg,https://www.bigdatahub.go.kr/images/disease/,64,2,2020-09-28 14:33,1,28.1 ℃,39.1 %,28.6 ℃,38.7 %,9100 lux,정상
+514,g1_64(3).jpg,https://www.bigdatahub.go.kr/images/disease/,64,3,2020-09-28 14:33,1,28.1 ℃,39.1 %,28.6 ℃,38.7 %,9100 lux,정상
+515,g1_64(4).jpg,https://www.bigdatahub.go.kr/images/disease/,64,4,2020-09-28 14:33,1,28.1 ℃,39.1 %,28.6 ℃,38.7 %,9100 lux,정상
+516,g1_64(5).jpg,https://www.bigdatahub.go.kr/images/disease/,64,5,2020-09-28 14:33,1,28.1 ℃,39.1 %,28.6 ℃,38.7 %,9100 lux,정상
+517,g1_64(6).jpg,https://www.bigdatahub.go.kr/images/disease/,64,6,2020-09-28 14:33,1,28.1 ℃,39.1 %,28.6 ℃,38.7 %,9100 lux,정상
+518,g1_64(7).jpg,https://www.bigdatahub.go.kr/images/disease/,64,7,2020-09-28 14:33,1,28.1 ℃,39.1 %,28.6 ℃,38.7 %,9100 lux,정상
+519,g1_64(8).jpg,https://www.bigdatahub.go.kr/images/disease/,64,8,2020-09-28 14:33,1,28.1 ℃,39.1 %,28.6 ℃,38.7 %,9100 lux,정상
+520,g1_64(9).jpg,https://www.bigdatahub.go.kr/images/disease/,64,9,2020-09-28 14:33,1,28.1 ℃,39.1 %,28.6 ℃,38.7 %,9100 lux,정상
+521,g1_79(1).jpg,https://www.bigdatahub.go.kr/images/disease/,79,1,2020-10-07 14:00,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+522,g1_79(2).jpg,https://www.bigdatahub.go.kr/images/disease/,79,2,2020-10-07 14:00,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+523,g1_79(3).jpg,https://www.bigdatahub.go.kr/images/disease/,79,3,2020-10-07 14:00,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+524,g1_79(4).jpg,https://www.bigdatahub.go.kr/images/disease/,79,4,2020-10-07 14:00,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+525,g1_79(5).jpg,https://www.bigdatahub.go.kr/images/disease/,79,5,2020-10-07 14:00,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+526,g1_79(6).jpg,https://www.bigdatahub.go.kr/images/disease/,79,6,2020-10-07 14:00,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+527,g1_79(7).jpg,https://www.bigdatahub.go.kr/images/disease/,79,7,2020-10-07 14:00,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+528,g1_79(8).jpg,https://www.bigdatahub.go.kr/images/disease/,79,8,2020-10-07 14:00,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+529,g1_79(9).jpg,https://www.bigdatahub.go.kr/images/disease/,79,9,2020-10-07 14:00,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+530,g1_80(1).jpg,https://www.bigdatahub.go.kr/images/disease/,80,1,2020-10-07 14:00,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+531,g1_80(2).jpg,https://www.bigdatahub.go.kr/images/disease/,80,2,2020-10-07 14:00,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+532,g1_80(3).jpg,https://www.bigdatahub.go.kr/images/disease/,80,3,2020-10-07 14:00,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+533,g1_80(4).jpg,https://www.bigdatahub.go.kr/images/disease/,80,4,2020-10-07 14:00,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+534,g1_80(5).jpg,https://www.bigdatahub.go.kr/images/disease/,80,5,2020-10-07 14:00,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+535,g1_80(6).jpg,https://www.bigdatahub.go.kr/images/disease/,80,6,2020-10-07 14:00,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+536,g1_80(7).jpg,https://www.bigdatahub.go.kr/images/disease/,80,7,2020-10-07 14:00,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+537,g1_80(8).jpg,https://www.bigdatahub.go.kr/images/disease/,80,8,2020-10-07 14:00,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+538,g1_80(9).jpg,https://www.bigdatahub.go.kr/images/disease/,80,9,2020-10-07 14:00,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+539,g1_81(1).jpg,https://www.bigdatahub.go.kr/images/disease/,81,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+540,g1_81(2).jpg,https://www.bigdatahub.go.kr/images/disease/,81,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+541,g1_81(3).jpg,https://www.bigdatahub.go.kr/images/disease/,81,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+542,g1_81(4).jpg,https://www.bigdatahub.go.kr/images/disease/,81,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+543,g1_81(5).jpg,https://www.bigdatahub.go.kr/images/disease/,81,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+544,g1_81(6).jpg,https://www.bigdatahub.go.kr/images/disease/,81,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+545,g1_81(7).jpg,https://www.bigdatahub.go.kr/images/disease/,81,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+546,g1_81(8).jpg,https://www.bigdatahub.go.kr/images/disease/,81,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+547,g1_81(9).jpg,https://www.bigdatahub.go.kr/images/disease/,81,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+548,g1_83(1).jpg,https://www.bigdatahub.go.kr/images/disease/,83,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+549,g1_83(2).jpg,https://www.bigdatahub.go.kr/images/disease/,83,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+550,g1_83(3).jpg,https://www.bigdatahub.go.kr/images/disease/,83,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+551,g1_83(4).jpg,https://www.bigdatahub.go.kr/images/disease/,83,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+552,g1_83(5).jpg,https://www.bigdatahub.go.kr/images/disease/,83,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+553,g1_83(6).jpg,https://www.bigdatahub.go.kr/images/disease/,83,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+554,g1_83(7).jpg,https://www.bigdatahub.go.kr/images/disease/,83,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+555,g1_83(8).jpg,https://www.bigdatahub.go.kr/images/disease/,83,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+556,g1_83(9).jpg,https://www.bigdatahub.go.kr/images/disease/,83,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+557,g1_84(1).jpg,https://www.bigdatahub.go.kr/images/disease/,84,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+558,g1_84(2).jpg,https://www.bigdatahub.go.kr/images/disease/,84,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+559,g1_84(3).jpg,https://www.bigdatahub.go.kr/images/disease/,84,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+560,g1_84(4).jpg,https://www.bigdatahub.go.kr/images/disease/,84,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+561,g1_84(5).jpg,https://www.bigdatahub.go.kr/images/disease/,84,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+562,g1_84(6).jpg,https://www.bigdatahub.go.kr/images/disease/,84,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+563,g1_84(7).jpg,https://www.bigdatahub.go.kr/images/disease/,84,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+564,g1_84(8).jpg,https://www.bigdatahub.go.kr/images/disease/,84,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+565,g1_84(9).jpg,https://www.bigdatahub.go.kr/images/disease/,84,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+566,g1_85(1).jpg,https://www.bigdatahub.go.kr/images/disease/,85,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+567,g1_85(2).jpg,https://www.bigdatahub.go.kr/images/disease/,85,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+568,g1_85(3).jpg,https://www.bigdatahub.go.kr/images/disease/,85,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+569,g1_85(4).jpg,https://www.bigdatahub.go.kr/images/disease/,85,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+570,g1_85(5).jpg,https://www.bigdatahub.go.kr/images/disease/,85,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+571,g1_85(6).jpg,https://www.bigdatahub.go.kr/images/disease/,85,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+572,g1_85(7).jpg,https://www.bigdatahub.go.kr/images/disease/,85,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+573,g1_85(8).jpg,https://www.bigdatahub.go.kr/images/disease/,85,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+574,g1_85(9).jpg,https://www.bigdatahub.go.kr/images/disease/,85,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+575,g1_86(1).jpg,https://www.bigdatahub.go.kr/images/disease/,86,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+576,g1_86(2).jpg,https://www.bigdatahub.go.kr/images/disease/,86,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+577,g1_86(3).jpg,https://www.bigdatahub.go.kr/images/disease/,86,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+578,g1_86(4).jpg,https://www.bigdatahub.go.kr/images/disease/,86,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+579,g1_86(5).jpg,https://www.bigdatahub.go.kr/images/disease/,86,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+580,g1_86(6).jpg,https://www.bigdatahub.go.kr/images/disease/,86,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+581,g1_86(7).jpg,https://www.bigdatahub.go.kr/images/disease/,86,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+582,g1_86(8).jpg,https://www.bigdatahub.go.kr/images/disease/,86,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+583,g1_86(9).jpg,https://www.bigdatahub.go.kr/images/disease/,86,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+584,g1_87(1).jpg,https://www.bigdatahub.go.kr/images/disease/,87,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+585,g1_87(2).jpg,https://www.bigdatahub.go.kr/images/disease/,87,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+586,g1_87(3).jpg,https://www.bigdatahub.go.kr/images/disease/,87,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+587,g1_87(4).jpg,https://www.bigdatahub.go.kr/images/disease/,87,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+588,g1_87(5).jpg,https://www.bigdatahub.go.kr/images/disease/,87,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+589,g1_87(6).jpg,https://www.bigdatahub.go.kr/images/disease/,87,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+590,g1_87(7).jpg,https://www.bigdatahub.go.kr/images/disease/,87,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+591,g1_87(8).jpg,https://www.bigdatahub.go.kr/images/disease/,87,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+592,g1_87(9).jpg,https://www.bigdatahub.go.kr/images/disease/,87,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+593,g1_90(1).jpg,https://www.bigdatahub.go.kr/images/disease/,90,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+594,g1_90(2).jpg,https://www.bigdatahub.go.kr/images/disease/,90,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+595,g1_90(3).jpg,https://www.bigdatahub.go.kr/images/disease/,90,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+596,g1_90(4).jpg,https://www.bigdatahub.go.kr/images/disease/,90,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+597,g1_90(5).jpg,https://www.bigdatahub.go.kr/images/disease/,90,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+598,g1_90(6).jpg,https://www.bigdatahub.go.kr/images/disease/,90,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+599,g1_90(7).jpg,https://www.bigdatahub.go.kr/images/disease/,90,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+600,g1_90(8).jpg,https://www.bigdatahub.go.kr/images/disease/,90,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+601,g1_90(9).jpg,https://www.bigdatahub.go.kr/images/disease/,90,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+602,g1_91(1).jpg,https://www.bigdatahub.go.kr/images/disease/,91,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+603,g1_91(2).jpg,https://www.bigdatahub.go.kr/images/disease/,91,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+604,g1_91(3).jpg,https://www.bigdatahub.go.kr/images/disease/,91,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+605,g1_91(4).jpg,https://www.bigdatahub.go.kr/images/disease/,91,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+606,g1_91(5).jpg,https://www.bigdatahub.go.kr/images/disease/,91,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+607,g1_91(6).jpg,https://www.bigdatahub.go.kr/images/disease/,91,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+608,g1_91(7).jpg,https://www.bigdatahub.go.kr/images/disease/,91,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+609,g1_91(8).jpg,https://www.bigdatahub.go.kr/images/disease/,91,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+610,g1_91(9).jpg,https://www.bigdatahub.go.kr/images/disease/,91,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+611,g1_92(1).jpg,https://www.bigdatahub.go.kr/images/disease/,92,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+612,g1_92(2).jpg,https://www.bigdatahub.go.kr/images/disease/,92,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+613,g1_92(3).jpg,https://www.bigdatahub.go.kr/images/disease/,92,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+614,g1_92(4).jpg,https://www.bigdatahub.go.kr/images/disease/,92,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+615,g1_92(5).jpg,https://www.bigdatahub.go.kr/images/disease/,92,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+616,g1_92(6).jpg,https://www.bigdatahub.go.kr/images/disease/,92,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+617,g1_92(7).jpg,https://www.bigdatahub.go.kr/images/disease/,92,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+618,g1_92(8).jpg,https://www.bigdatahub.go.kr/images/disease/,92,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+619,g1_92(9).jpg,https://www.bigdatahub.go.kr/images/disease/,92,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+620,g1_93(1).jpg,https://www.bigdatahub.go.kr/images/disease/,93,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+621,g1_93(2).jpg,https://www.bigdatahub.go.kr/images/disease/,93,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+622,g1_93(3).jpg,https://www.bigdatahub.go.kr/images/disease/,93,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+623,g1_93(4).jpg,https://www.bigdatahub.go.kr/images/disease/,93,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+624,g1_93(5).jpg,https://www.bigdatahub.go.kr/images/disease/,93,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+625,g1_93(6).jpg,https://www.bigdatahub.go.kr/images/disease/,93,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+626,g1_93(7).jpg,https://www.bigdatahub.go.kr/images/disease/,93,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+627,g1_93(8).jpg,https://www.bigdatahub.go.kr/images/disease/,93,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+628,g1_93(9).jpg,https://www.bigdatahub.go.kr/images/disease/,93,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+629,g1_94(1).jpg,https://www.bigdatahub.go.kr/images/disease/,94,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+630,g1_94(2).jpg,https://www.bigdatahub.go.kr/images/disease/,94,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+631,g1_94(3).jpg,https://www.bigdatahub.go.kr/images/disease/,94,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+632,g1_94(4).jpg,https://www.bigdatahub.go.kr/images/disease/,94,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+633,g1_94(5).jpg,https://www.bigdatahub.go.kr/images/disease/,94,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+634,g1_94(6).jpg,https://www.bigdatahub.go.kr/images/disease/,94,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+635,g1_94(7).jpg,https://www.bigdatahub.go.kr/images/disease/,94,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+636,g1_94(8).jpg,https://www.bigdatahub.go.kr/images/disease/,94,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+637,g1_94(9).jpg,https://www.bigdatahub.go.kr/images/disease/,94,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+638,g1_95(1).jpg,https://www.bigdatahub.go.kr/images/disease/,95,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+639,g1_95(2).jpg,https://www.bigdatahub.go.kr/images/disease/,95,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+640,g1_95(3).jpg,https://www.bigdatahub.go.kr/images/disease/,95,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+641,g1_95(4).jpg,https://www.bigdatahub.go.kr/images/disease/,95,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+642,g1_95(5).jpg,https://www.bigdatahub.go.kr/images/disease/,95,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+643,g1_95(6).jpg,https://www.bigdatahub.go.kr/images/disease/,95,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+644,g1_95(7).jpg,https://www.bigdatahub.go.kr/images/disease/,95,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+645,g1_95(8).jpg,https://www.bigdatahub.go.kr/images/disease/,95,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+646,g1_95(9).jpg,https://www.bigdatahub.go.kr/images/disease/,95,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+647,g1_96(1).jpg,https://www.bigdatahub.go.kr/images/disease/,96,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+648,g1_96(2).jpg,https://www.bigdatahub.go.kr/images/disease/,96,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+649,g1_96(3).jpg,https://www.bigdatahub.go.kr/images/disease/,96,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+650,g1_96(4).jpg,https://www.bigdatahub.go.kr/images/disease/,96,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+651,g1_96(5).jpg,https://www.bigdatahub.go.kr/images/disease/,96,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+652,g1_96(6).jpg,https://www.bigdatahub.go.kr/images/disease/,96,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+653,g1_96(7).jpg,https://www.bigdatahub.go.kr/images/disease/,96,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+654,g1_96(8).jpg,https://www.bigdatahub.go.kr/images/disease/,96,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+655,g1_96(9).jpg,https://www.bigdatahub.go.kr/images/disease/,96,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+656,g1_98(1).jpg,https://www.bigdatahub.go.kr/images/disease/,98,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+657,g1_98(2).jpg,https://www.bigdatahub.go.kr/images/disease/,98,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+658,g1_98(3).jpg,https://www.bigdatahub.go.kr/images/disease/,98,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+659,g1_98(4).jpg,https://www.bigdatahub.go.kr/images/disease/,98,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+660,g1_98(5).jpg,https://www.bigdatahub.go.kr/images/disease/,98,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+661,g1_98(6).jpg,https://www.bigdatahub.go.kr/images/disease/,98,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+662,g1_98(7).jpg,https://www.bigdatahub.go.kr/images/disease/,98,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+663,g1_98(8).jpg,https://www.bigdatahub.go.kr/images/disease/,98,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+664,g1_98(9).jpg,https://www.bigdatahub.go.kr/images/disease/,98,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+665,g1_99(1).jpg,https://www.bigdatahub.go.kr/images/disease/,99,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+666,g1_99(2).jpg,https://www.bigdatahub.go.kr/images/disease/,99,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+667,g1_99(3).jpg,https://www.bigdatahub.go.kr/images/disease/,99,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+668,g1_99(4).jpg,https://www.bigdatahub.go.kr/images/disease/,99,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+669,g1_99(5).jpg,https://www.bigdatahub.go.kr/images/disease/,99,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+670,g1_99(6).jpg,https://www.bigdatahub.go.kr/images/disease/,99,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+671,g1_99(7).jpg,https://www.bigdatahub.go.kr/images/disease/,99,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+672,g1_99(8).jpg,https://www.bigdatahub.go.kr/images/disease/,99,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+673,g1_99(9).jpg,https://www.bigdatahub.go.kr/images/disease/,99,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+674,g1_100(1).jpg,https://www.bigdatahub.go.kr/images/disease/,100,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+675,g1_100(2).jpg,https://www.bigdatahub.go.kr/images/disease/,100,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+676,g1_100(3).jpg,https://www.bigdatahub.go.kr/images/disease/,100,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+677,g1_100(4).jpg,https://www.bigdatahub.go.kr/images/disease/,100,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+678,g1_100(5).jpg,https://www.bigdatahub.go.kr/images/disease/,100,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+679,g1_100(6).jpg,https://www.bigdatahub.go.kr/images/disease/,100,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+680,g1_100(7).jpg,https://www.bigdatahub.go.kr/images/disease/,100,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+681,g1_100(8).jpg,https://www.bigdatahub.go.kr/images/disease/,100,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+682,g1_100(9).jpg,https://www.bigdatahub.go.kr/images/disease/,100,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+683,g1_101(1).jpg,https://www.bigdatahub.go.kr/images/disease/,101,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+684,g1_101(2).jpg,https://www.bigdatahub.go.kr/images/disease/,101,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+685,g1_101(3).jpg,https://www.bigdatahub.go.kr/images/disease/,101,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+686,g1_101(4).jpg,https://www.bigdatahub.go.kr/images/disease/,101,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+687,g1_101(5).jpg,https://www.bigdatahub.go.kr/images/disease/,101,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+688,g1_101(6).jpg,https://www.bigdatahub.go.kr/images/disease/,101,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+689,g1_101(7).jpg,https://www.bigdatahub.go.kr/images/disease/,101,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+690,g1_101(8).jpg,https://www.bigdatahub.go.kr/images/disease/,101,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+691,g1_101(9).jpg,https://www.bigdatahub.go.kr/images/disease/,101,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+692,g1_103(1).jpg,https://www.bigdatahub.go.kr/images/disease/,103,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+693,g1_103(2).jpg,https://www.bigdatahub.go.kr/images/disease/,103,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+694,g1_103(3).jpg,https://www.bigdatahub.go.kr/images/disease/,103,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+695,g1_103(4).jpg,https://www.bigdatahub.go.kr/images/disease/,103,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+696,g1_103(5).jpg,https://www.bigdatahub.go.kr/images/disease/,103,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+697,g1_103(6).jpg,https://www.bigdatahub.go.kr/images/disease/,103,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+698,g1_103(7).jpg,https://www.bigdatahub.go.kr/images/disease/,103,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+699,g1_103(8).jpg,https://www.bigdatahub.go.kr/images/disease/,103,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+700,g1_103(9).jpg,https://www.bigdatahub.go.kr/images/disease/,103,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+701,g1_104(1).jpg,https://www.bigdatahub.go.kr/images/disease/,104,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+702,g1_104(2).jpg,https://www.bigdatahub.go.kr/images/disease/,104,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+703,g1_104(3).jpg,https://www.bigdatahub.go.kr/images/disease/,104,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+704,g1_104(4).jpg,https://www.bigdatahub.go.kr/images/disease/,104,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+705,g1_104(5).jpg,https://www.bigdatahub.go.kr/images/disease/,104,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+706,g1_104(6).jpg,https://www.bigdatahub.go.kr/images/disease/,104,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+707,g1_104(7).jpg,https://www.bigdatahub.go.kr/images/disease/,104,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+708,g1_104(8).jpg,https://www.bigdatahub.go.kr/images/disease/,104,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+709,g1_104(9).jpg,https://www.bigdatahub.go.kr/images/disease/,104,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+710,g1_105(1).jpg,https://www.bigdatahub.go.kr/images/disease/,105,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+711,g1_105(2).jpg,https://www.bigdatahub.go.kr/images/disease/,105,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+712,g1_105(3).jpg,https://www.bigdatahub.go.kr/images/disease/,105,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+713,g1_105(4).jpg,https://www.bigdatahub.go.kr/images/disease/,105,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+714,g1_105(5).jpg,https://www.bigdatahub.go.kr/images/disease/,105,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+715,g1_105(6).jpg,https://www.bigdatahub.go.kr/images/disease/,105,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+716,g1_105(7).jpg,https://www.bigdatahub.go.kr/images/disease/,105,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+717,g1_105(8).jpg,https://www.bigdatahub.go.kr/images/disease/,105,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+718,g1_105(9).jpg,https://www.bigdatahub.go.kr/images/disease/,105,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+719,g1_106(1).jpg,https://www.bigdatahub.go.kr/images/disease/,106,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+720,g1_106(2).jpg,https://www.bigdatahub.go.kr/images/disease/,106,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+721,g1_106(3).jpg,https://www.bigdatahub.go.kr/images/disease/,106,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+722,g1_106(4).jpg,https://www.bigdatahub.go.kr/images/disease/,106,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+723,g1_106(5).jpg,https://www.bigdatahub.go.kr/images/disease/,106,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+724,g1_106(6).jpg,https://www.bigdatahub.go.kr/images/disease/,106,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+725,g1_106(7).jpg,https://www.bigdatahub.go.kr/images/disease/,106,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+726,g1_106(8).jpg,https://www.bigdatahub.go.kr/images/disease/,106,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+727,g1_106(9).jpg,https://www.bigdatahub.go.kr/images/disease/,106,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13470 lux,정상
+728,g1_107(1).jpg,https://www.bigdatahub.go.kr/images/disease/,107,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+729,g1_107(2).jpg,https://www.bigdatahub.go.kr/images/disease/,107,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+730,g1_107(3).jpg,https://www.bigdatahub.go.kr/images/disease/,107,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+731,g1_107(4).jpg,https://www.bigdatahub.go.kr/images/disease/,107,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+732,g1_107(5).jpg,https://www.bigdatahub.go.kr/images/disease/,107,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+733,g1_107(6).jpg,https://www.bigdatahub.go.kr/images/disease/,107,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+734,g1_107(7).jpg,https://www.bigdatahub.go.kr/images/disease/,107,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+735,g1_107(8).jpg,https://www.bigdatahub.go.kr/images/disease/,107,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+736,g1_107(9).jpg,https://www.bigdatahub.go.kr/images/disease/,107,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+737,g1_108(1).jpg,https://www.bigdatahub.go.kr/images/disease/,108,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+738,g1_108(2).jpg,https://www.bigdatahub.go.kr/images/disease/,108,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+739,g1_108(3).jpg,https://www.bigdatahub.go.kr/images/disease/,108,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+740,g1_108(4).jpg,https://www.bigdatahub.go.kr/images/disease/,108,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+741,g1_108(5).jpg,https://www.bigdatahub.go.kr/images/disease/,108,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+742,g1_108(6).jpg,https://www.bigdatahub.go.kr/images/disease/,108,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+743,g1_108(7).jpg,https://www.bigdatahub.go.kr/images/disease/,108,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+744,g1_108(8).jpg,https://www.bigdatahub.go.kr/images/disease/,108,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+745,g1_108(9).jpg,https://www.bigdatahub.go.kr/images/disease/,108,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+746,g1_109(1).jpg,https://www.bigdatahub.go.kr/images/disease/,109,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+747,g1_109(2).jpg,https://www.bigdatahub.go.kr/images/disease/,109,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+748,g1_109(3).jpg,https://www.bigdatahub.go.kr/images/disease/,109,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+749,g1_109(4).jpg,https://www.bigdatahub.go.kr/images/disease/,109,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+750,g1_109(5).jpg,https://www.bigdatahub.go.kr/images/disease/,109,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+751,g1_109(6).jpg,https://www.bigdatahub.go.kr/images/disease/,109,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+752,g1_109(7).jpg,https://www.bigdatahub.go.kr/images/disease/,109,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+753,g1_109(8).jpg,https://www.bigdatahub.go.kr/images/disease/,109,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+754,g1_109(9).jpg,https://www.bigdatahub.go.kr/images/disease/,109,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+755,g1_111(1).jpg,https://www.bigdatahub.go.kr/images/disease/,111,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+756,g1_111(2).jpg,https://www.bigdatahub.go.kr/images/disease/,111,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+757,g1_111(3).jpg,https://www.bigdatahub.go.kr/images/disease/,111,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+758,g1_111(4).jpg,https://www.bigdatahub.go.kr/images/disease/,111,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+759,g1_111(5).jpg,https://www.bigdatahub.go.kr/images/disease/,111,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+760,g1_111(6).jpg,https://www.bigdatahub.go.kr/images/disease/,111,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+761,g1_111(7).jpg,https://www.bigdatahub.go.kr/images/disease/,111,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+762,g1_111(8).jpg,https://www.bigdatahub.go.kr/images/disease/,111,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+763,g1_111(9).jpg,https://www.bigdatahub.go.kr/images/disease/,111,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+764,g1_112(1).jpg,https://www.bigdatahub.go.kr/images/disease/,112,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+765,g1_112(2).jpg,https://www.bigdatahub.go.kr/images/disease/,112,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+766,g1_112(3).jpg,https://www.bigdatahub.go.kr/images/disease/,112,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+767,g1_112(4).jpg,https://www.bigdatahub.go.kr/images/disease/,112,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+768,g1_112(5).jpg,https://www.bigdatahub.go.kr/images/disease/,112,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+769,g1_112(6).jpg,https://www.bigdatahub.go.kr/images/disease/,112,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+770,g1_112(7).jpg,https://www.bigdatahub.go.kr/images/disease/,112,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+771,g1_112(8).jpg,https://www.bigdatahub.go.kr/images/disease/,112,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+772,g1_112(9).jpg,https://www.bigdatahub.go.kr/images/disease/,112,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+773,g1_113(1).jpg,https://www.bigdatahub.go.kr/images/disease/,113,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+774,g1_113(2).jpg,https://www.bigdatahub.go.kr/images/disease/,113,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+775,g1_113(3).jpg,https://www.bigdatahub.go.kr/images/disease/,113,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+776,g1_113(4).jpg,https://www.bigdatahub.go.kr/images/disease/,113,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+777,g1_113(5).jpg,https://www.bigdatahub.go.kr/images/disease/,113,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+778,g1_113(6).jpg,https://www.bigdatahub.go.kr/images/disease/,113,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+779,g1_113(7).jpg,https://www.bigdatahub.go.kr/images/disease/,113,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+780,g1_113(8).jpg,https://www.bigdatahub.go.kr/images/disease/,113,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+781,g1_113(9).jpg,https://www.bigdatahub.go.kr/images/disease/,113,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+782,g1_115(1).jpg,https://www.bigdatahub.go.kr/images/disease/,115,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+783,g1_115(2).jpg,https://www.bigdatahub.go.kr/images/disease/,115,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+784,g1_115(3).jpg,https://www.bigdatahub.go.kr/images/disease/,115,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+785,g1_115(4).jpg,https://www.bigdatahub.go.kr/images/disease/,115,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+786,g1_115(5).jpg,https://www.bigdatahub.go.kr/images/disease/,115,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+787,g1_115(6).jpg,https://www.bigdatahub.go.kr/images/disease/,115,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+788,g1_115(7).jpg,https://www.bigdatahub.go.kr/images/disease/,115,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+789,g1_115(8).jpg,https://www.bigdatahub.go.kr/images/disease/,115,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+790,g1_115(9).jpg,https://www.bigdatahub.go.kr/images/disease/,115,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+791,g1_116(1).jpg,https://www.bigdatahub.go.kr/images/disease/,116,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+792,g1_116(2).jpg,https://www.bigdatahub.go.kr/images/disease/,116,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+793,g1_116(3).jpg,https://www.bigdatahub.go.kr/images/disease/,116,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+794,g1_116(4).jpg,https://www.bigdatahub.go.kr/images/disease/,116,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+795,g1_116(5).jpg,https://www.bigdatahub.go.kr/images/disease/,116,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+796,g1_116(6).jpg,https://www.bigdatahub.go.kr/images/disease/,116,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+797,g1_116(7).jpg,https://www.bigdatahub.go.kr/images/disease/,116,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+798,g1_116(8).jpg,https://www.bigdatahub.go.kr/images/disease/,116,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+799,g1_116(9).jpg,https://www.bigdatahub.go.kr/images/disease/,116,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+800,g1_117(1).jpg,https://www.bigdatahub.go.kr/images/disease/,117,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+801,g1_117(2).jpg,https://www.bigdatahub.go.kr/images/disease/,117,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+802,g1_117(3).jpg,https://www.bigdatahub.go.kr/images/disease/,117,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+803,g1_117(4).jpg,https://www.bigdatahub.go.kr/images/disease/,117,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+804,g1_117(5).jpg,https://www.bigdatahub.go.kr/images/disease/,117,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+805,g1_117(6).jpg,https://www.bigdatahub.go.kr/images/disease/,117,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+806,g1_117(7).jpg,https://www.bigdatahub.go.kr/images/disease/,117,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+807,g1_117(8).jpg,https://www.bigdatahub.go.kr/images/disease/,117,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+808,g1_117(9).jpg,https://www.bigdatahub.go.kr/images/disease/,117,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+809,g1_118(1).jpg,https://www.bigdatahub.go.kr/images/disease/,118,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+810,g1_118(2).jpg,https://www.bigdatahub.go.kr/images/disease/,118,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+811,g1_118(3).jpg,https://www.bigdatahub.go.kr/images/disease/,118,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+812,g1_118(4).jpg,https://www.bigdatahub.go.kr/images/disease/,118,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+813,g1_118(5).jpg,https://www.bigdatahub.go.kr/images/disease/,118,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+814,g1_118(6).jpg,https://www.bigdatahub.go.kr/images/disease/,118,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+815,g1_118(7).jpg,https://www.bigdatahub.go.kr/images/disease/,118,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+816,g1_118(8).jpg,https://www.bigdatahub.go.kr/images/disease/,118,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+817,g1_118(9).jpg,https://www.bigdatahub.go.kr/images/disease/,118,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+818,g1_120(1).jpg,https://www.bigdatahub.go.kr/images/disease/,120,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+819,g1_120(2).jpg,https://www.bigdatahub.go.kr/images/disease/,120,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+820,g1_120(3).jpg,https://www.bigdatahub.go.kr/images/disease/,120,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+821,g1_120(4).jpg,https://www.bigdatahub.go.kr/images/disease/,120,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+822,g1_120(5).jpg,https://www.bigdatahub.go.kr/images/disease/,120,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+823,g1_120(6).jpg,https://www.bigdatahub.go.kr/images/disease/,120,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+824,g1_120(7).jpg,https://www.bigdatahub.go.kr/images/disease/,120,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+825,g1_120(8).jpg,https://www.bigdatahub.go.kr/images/disease/,120,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+826,g1_120(9).jpg,https://www.bigdatahub.go.kr/images/disease/,120,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+827,g1_121(1).jpg,https://www.bigdatahub.go.kr/images/disease/,121,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+828,g1_121(2).jpg,https://www.bigdatahub.go.kr/images/disease/,121,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+829,g1_121(3).jpg,https://www.bigdatahub.go.kr/images/disease/,121,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+830,g1_121(4).jpg,https://www.bigdatahub.go.kr/images/disease/,121,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+831,g1_121(5).jpg,https://www.bigdatahub.go.kr/images/disease/,121,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+832,g1_121(6).jpg,https://www.bigdatahub.go.kr/images/disease/,121,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+833,g1_121(7).jpg,https://www.bigdatahub.go.kr/images/disease/,121,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+834,g1_121(8).jpg,https://www.bigdatahub.go.kr/images/disease/,121,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+835,g1_121(9).jpg,https://www.bigdatahub.go.kr/images/disease/,121,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+836,g1_122(1).jpg,https://www.bigdatahub.go.kr/images/disease/,122,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+837,g1_122(2).jpg,https://www.bigdatahub.go.kr/images/disease/,122,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+838,g1_122(3).jpg,https://www.bigdatahub.go.kr/images/disease/,122,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+839,g1_122(4).jpg,https://www.bigdatahub.go.kr/images/disease/,122,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+840,g1_122(5).jpg,https://www.bigdatahub.go.kr/images/disease/,122,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+841,g1_122(6).jpg,https://www.bigdatahub.go.kr/images/disease/,122,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+842,g1_122(7).jpg,https://www.bigdatahub.go.kr/images/disease/,122,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+843,g1_122(8).jpg,https://www.bigdatahub.go.kr/images/disease/,122,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+844,g1_122(9).jpg,https://www.bigdatahub.go.kr/images/disease/,122,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+845,g1_123(1).jpg,https://www.bigdatahub.go.kr/images/disease/,123,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+846,g1_123(2).jpg,https://www.bigdatahub.go.kr/images/disease/,123,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+847,g1_123(3).jpg,https://www.bigdatahub.go.kr/images/disease/,123,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+848,g1_123(4).jpg,https://www.bigdatahub.go.kr/images/disease/,123,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+849,g1_123(5).jpg,https://www.bigdatahub.go.kr/images/disease/,123,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+850,g1_123(6).jpg,https://www.bigdatahub.go.kr/images/disease/,123,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+851,g1_123(7).jpg,https://www.bigdatahub.go.kr/images/disease/,123,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+852,g1_123(8).jpg,https://www.bigdatahub.go.kr/images/disease/,123,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+853,g1_123(9).jpg,https://www.bigdatahub.go.kr/images/disease/,123,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+854,g1_125(1).jpg,https://www.bigdatahub.go.kr/images/disease/,125,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+855,g1_125(2).jpg,https://www.bigdatahub.go.kr/images/disease/,125,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+856,g1_125(3).jpg,https://www.bigdatahub.go.kr/images/disease/,125,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+857,g1_125(4).jpg,https://www.bigdatahub.go.kr/images/disease/,125,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+858,g1_125(5).jpg,https://www.bigdatahub.go.kr/images/disease/,125,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+859,g1_125(6).jpg,https://www.bigdatahub.go.kr/images/disease/,125,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+860,g1_125(7).jpg,https://www.bigdatahub.go.kr/images/disease/,125,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+861,g1_125(8).jpg,https://www.bigdatahub.go.kr/images/disease/,125,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+862,g1_125(9).jpg,https://www.bigdatahub.go.kr/images/disease/,125,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+863,g1_127(1).jpg,https://www.bigdatahub.go.kr/images/disease/,127,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+864,g1_127(2).jpg,https://www.bigdatahub.go.kr/images/disease/,127,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+865,g1_127(3).jpg,https://www.bigdatahub.go.kr/images/disease/,127,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+866,g1_127(4).jpg,https://www.bigdatahub.go.kr/images/disease/,127,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+867,g1_127(5).jpg,https://www.bigdatahub.go.kr/images/disease/,127,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+868,g1_127(6).jpg,https://www.bigdatahub.go.kr/images/disease/,127,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+869,g1_127(7).jpg,https://www.bigdatahub.go.kr/images/disease/,127,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+870,g1_127(8).jpg,https://www.bigdatahub.go.kr/images/disease/,127,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+871,g1_127(9).jpg,https://www.bigdatahub.go.kr/images/disease/,127,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+872,g1_131(1).jpg,https://www.bigdatahub.go.kr/images/disease/,131,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+873,g1_131(2).jpg,https://www.bigdatahub.go.kr/images/disease/,131,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+874,g1_131(3).jpg,https://www.bigdatahub.go.kr/images/disease/,131,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+875,g1_131(4).jpg,https://www.bigdatahub.go.kr/images/disease/,131,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+876,g1_131(5).jpg,https://www.bigdatahub.go.kr/images/disease/,131,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+877,g1_131(6).jpg,https://www.bigdatahub.go.kr/images/disease/,131,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+878,g1_131(7).jpg,https://www.bigdatahub.go.kr/images/disease/,131,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+879,g1_131(8).jpg,https://www.bigdatahub.go.kr/images/disease/,131,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+880,g1_131(9).jpg,https://www.bigdatahub.go.kr/images/disease/,131,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+881,h1_3(1).jpg,https://www.bigdatahub.go.kr/images/disease/,3,1,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+882,h1_3(2).jpg,https://www.bigdatahub.go.kr/images/disease/,3,2,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+883,h1_3(3).jpg,https://www.bigdatahub.go.kr/images/disease/,3,3,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+884,h1_3(4).jpg,https://www.bigdatahub.go.kr/images/disease/,3,4,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+885,h1_3(6).jpg,https://www.bigdatahub.go.kr/images/disease/,3,6,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+886,h1_3(7).jpg,https://www.bigdatahub.go.kr/images/disease/,3,7,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+887,h1_3(8).jpg,https://www.bigdatahub.go.kr/images/disease/,3,8,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+888,h1_3(9).jpg,https://www.bigdatahub.go.kr/images/disease/,3,9,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+889,h1_10(1).jpg,https://www.bigdatahub.go.kr/images/disease/,10,1,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+890,h1_10(2).jpg,https://www.bigdatahub.go.kr/images/disease/,10,2,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+891,h1_10(3).jpg,https://www.bigdatahub.go.kr/images/disease/,10,3,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+892,h1_10(4).jpg,https://www.bigdatahub.go.kr/images/disease/,10,4,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+893,h1_10(5).jpg,https://www.bigdatahub.go.kr/images/disease/,10,5,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+894,h1_10(6).jpg,https://www.bigdatahub.go.kr/images/disease/,10,6,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+895,h1_10(7).jpg,https://www.bigdatahub.go.kr/images/disease/,10,7,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+896,h1_10(8).jpg,https://www.bigdatahub.go.kr/images/disease/,10,8,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+897,h1_10(9).jpg,https://www.bigdatahub.go.kr/images/disease/,10,9,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+898,h1_18(1).jpg,https://www.bigdatahub.go.kr/images/disease/,18,1,2020-09-24 10:54,2,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+899,h1_18(2).jpg,https://www.bigdatahub.go.kr/images/disease/,18,2,2020-09-24 10:54,2,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+900,h1_18(3).jpg,https://www.bigdatahub.go.kr/images/disease/,18,3,2020-09-24 10:54,2,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+901,h1_31(1).jpg,https://www.bigdatahub.go.kr/images/disease/,31,1,2020-09-24 13:57,2,30.0 ℃,38.4 %,30.0 ℃,39.5 %,5370 lux,정상
+902,h1_31(2).jpg,https://www.bigdatahub.go.kr/images/disease/,31,2,2020-09-24 13:57,2,30.0 ℃,38.4 %,30.0 ℃,39.5 %,5370 lux,정상
+903,h1_84(1).jpg,https://www.bigdatahub.go.kr/images/disease/,84,1,2020-11-25 14:26,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+904,h1_84(2).jpg,https://www.bigdatahub.go.kr/images/disease/,84,2,2020-11-25 14:26,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+905,h1_84(3).jpg,https://www.bigdatahub.go.kr/images/disease/,84,3,2020-11-25 14:26,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+906,h1_84(4).jpg,https://www.bigdatahub.go.kr/images/disease/,84,4,2020-11-25 14:26,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+907,h1_84(5).jpg,https://www.bigdatahub.go.kr/images/disease/,84,5,2020-11-25 14:26,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+908,h1_84(6).jpg,https://www.bigdatahub.go.kr/images/disease/,84,6,2020-11-25 14:26,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+909,h1_84(7).jpg,https://www.bigdatahub.go.kr/images/disease/,84,7,2020-11-25 14:26,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+910,h1_84(8).jpg,https://www.bigdatahub.go.kr/images/disease/,84,8,2020-11-25 14:26,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+911,h1_84(9).jpg,https://www.bigdatahub.go.kr/images/disease/,84,9,2020-11-25 14:26,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+912,i1_4(1).jpg,https://www.bigdatahub.go.kr/images/disease/,4,p,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+913,i1_4(2).jpg,https://www.bigdatahub.go.kr/images/disease/,4,p,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+914,i1_4(3).jpg,https://www.bigdatahub.go.kr/images/disease/,4,p,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+915,i1_4(4).jpg,https://www.bigdatahub.go.kr/images/disease/,4,p,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+916,i1_4(5).jpg,https://www.bigdatahub.go.kr/images/disease/,4,p,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+917,i1_4(6).jpg,https://www.bigdatahub.go.kr/images/disease/,4,p,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+918,i1_11(1).jpg,https://www.bigdatahub.go.kr/images/disease/,11,p,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+919,i1_11(2).jpg,https://www.bigdatahub.go.kr/images/disease/,11,p,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+920,i1_11(3).jpg,https://www.bigdatahub.go.kr/images/disease/,11,p,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+921,i1_11(4).jpg,https://www.bigdatahub.go.kr/images/disease/,11,p,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+922,i1_11(5).jpg,https://www.bigdatahub.go.kr/images/disease/,11,p,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+923,i1_11(6).jpg,https://www.bigdatahub.go.kr/images/disease/,11,p,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+924,i1_11(7).jpg,https://www.bigdatahub.go.kr/images/disease/,11,p,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+925,i1_11(8).jpg,https://www.bigdatahub.go.kr/images/disease/,11,p,2020-09-24 10:54,1,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+926,i1_19(1).jpg,https://www.bigdatahub.go.kr/images/disease/,19,p,2020-09-24 10:54,2,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+927,i1_19(2).jpg,https://www.bigdatahub.go.kr/images/disease/,19,p,2020-09-24 10:54,2,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+928,i1_20(1).jpg,https://www.bigdatahub.go.kr/images/disease/,20,p,2020-09-24 10:54,2,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+929,i1_20(2).jpg,https://www.bigdatahub.go.kr/images/disease/,20,p,2020-09-24 10:54,2,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+930,i1_25(1).jpg,https://www.bigdatahub.go.kr/images/disease/,25,p,2020-09-24 10:54,2,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+931,i1_26(1).jpg,https://www.bigdatahub.go.kr/images/disease/,26,p,2020-09-24 10:54,2,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+932,i1_28(1).jpg,https://www.bigdatahub.go.kr/images/disease/,28,p,2020-09-24 10:54,2,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+933,i1_29(1).jpg,https://www.bigdatahub.go.kr/images/disease/,29,p,2020-09-24 10:54,2,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+934,i1_32(1).jpg,https://www.bigdatahub.go.kr/images/disease/,32,p,2020-09-24 10:54,2,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+935,i1_33(1).jpg,https://www.bigdatahub.go.kr/images/disease/,33,p,2020-09-24 10:54,2,31.2 ℃,31.6 %,32.8 ℃,42.3 %,10060 lux,정상
+936,i1_39(1).jpg,https://www.bigdatahub.go.kr/images/disease/,39,p,2020-09-24 14:05,1,30.0 ℃,38.4 %,32.6 ℃,44.7 %,6200 lux,정상
+937,i1_39(2).jpg,https://www.bigdatahub.go.kr/images/disease/,39,p,2020-09-24 14:05,1,30.0 ℃,38.4 %,32.6 ℃,44.7 %,6200 lux,정상
+938,i1_39(3).jpg,https://www.bigdatahub.go.kr/images/disease/,39,p,2020-09-24 14:05,1,30.0 ℃,38.4 %,32.6 ℃,44.7 %,6200 lux,정상
+939,i1_39(4).jpg,https://www.bigdatahub.go.kr/images/disease/,39,p,2020-09-24 14:05,1,30.0 ℃,38.4 %,32.6 ℃,44.7 %,6200 lux,정상
+940,i1_39(5).jpg,https://www.bigdatahub.go.kr/images/disease/,39,p,2020-09-24 14:05,1,30.0 ℃,38.4 %,32.6 ℃,44.7 %,6200 lux,정상
+941,i1_39(6).jpg,https://www.bigdatahub.go.kr/images/disease/,39,p,2020-09-24 14:05,1,30.0 ℃,38.4 %,32.6 ℃,44.7 %,6200 lux,정상
+942,i1_39(7).jpg,https://www.bigdatahub.go.kr/images/disease/,39,p,2020-09-24 14:05,1,30.0 ℃,38.4 %,32.6 ℃,44.7 %,6200 lux,정상
+943,i1_39(8).jpg,https://www.bigdatahub.go.kr/images/disease/,39,p,2020-09-24 14:05,1,30.0 ℃,38.4 %,32.6 ℃,44.7 %,6200 lux,정상
+944,i1_43(1).jpg,https://www.bigdatahub.go.kr/images/disease/,43,p,2020-09-24 14:05,1,30.0 ℃,38.4 %,32.6 ℃,44.7 %,6200 lux,정상
+945,i1_43(2).jpg,https://www.bigdatahub.go.kr/images/disease/,43,p,2020-09-24 14:05,1,30.0 ℃,38.4 %,32.6 ℃,44.7 %,6200 lux,정상
+946,i1_43(3).jpg,https://www.bigdatahub.go.kr/images/disease/,43,p,2020-09-24 14:05,1,30.0 ℃,38.4 %,32.6 ℃,44.7 %,6200 lux,정상
+947,i1_43(4).jpg,https://www.bigdatahub.go.kr/images/disease/,43,p,2020-09-24 14:05,1,30.0 ℃,38.4 %,32.6 ℃,44.7 %,6200 lux,정상
+948,i1_43(5).jpg,https://www.bigdatahub.go.kr/images/disease/,43,p,2020-09-24 14:05,1,30.0 ℃,38.4 %,32.6 ℃,44.7 %,6200 lux,정상
+949,i1_43(6).jpg,https://www.bigdatahub.go.kr/images/disease/,43,p,2020-09-24 14:05,1,30.0 ℃,38.4 %,32.6 ℃,44.7 %,6200 lux,정상
+950,i1_46(1).jpg,https://www.bigdatahub.go.kr/images/disease/,46,p,2020-09-24 14:05,2,30.0 ℃,38.4 %,32.6 ℃,44.7 %,6200 lux,정상
+951,i1_47(1).jpg,https://www.bigdatahub.go.kr/images/disease/,47,p,2020-09-24 14:05,2,30.0 ℃,38.4 %,32.6 ℃,44.7 %,6200 lux,정상
+952,i1_48(1).jpg,https://www.bigdatahub.go.kr/images/disease/,48,p,2020-09-24 14:05,2,30.0 ℃,38.4 %,32.6 ℃,44.7 %,6200 lux,정상
+953,i1_49(1).jpg,https://www.bigdatahub.go.kr/images/disease/,49,p,2020-09-24 14:05,2,30.0 ℃,38.4 %,32.6 ℃,44.7 %,6200 lux,정상
+954,i1_50(1).jpg,https://www.bigdatahub.go.kr/images/disease/,50,p,2020-09-24 14:05,2,30.0 ℃,38.4 %,32.6 ℃,44.7 %,6200 lux,정상
+955,i1_51(1).jpg,https://www.bigdatahub.go.kr/images/disease/,51,p,2020-09-24 14:05,2,30.0 ℃,38.4 %,32.6 ℃,44.7 %,6200 lux,정상
+956,i1_70(1).jpg,https://www.bigdatahub.go.kr/images/disease/,70,p,2020-09-28 14:33,1,29.2 ℃,28.7 %,29.9 ℃,31.3 %,15720 lux,정상
+957,i1_70(2).jpg,https://www.bigdatahub.go.kr/images/disease/,70,p,2020-09-28 14:33,1,29.2 ℃,28.7 %,29.9 ℃,31.3 %,15720 lux,정상
+958,i1_70(3).jpg,https://www.bigdatahub.go.kr/images/disease/,70,p,2020-09-28 14:33,1,29.2 ℃,28.7 %,29.9 ℃,31.3 %,15720 lux,정상
+959,i1_70(4).jpg,https://www.bigdatahub.go.kr/images/disease/,70,p,2020-09-28 14:33,1,29.2 ℃,28.7 %,29.9 ℃,31.3 %,15720 lux,정상
+960,i1_70(5).jpg,https://www.bigdatahub.go.kr/images/disease/,70,p,2020-09-28 14:33,1,29.2 ℃,28.7 %,29.9 ℃,31.3 %,15720 lux,정상
+961,i1_70(6).jpg,https://www.bigdatahub.go.kr/images/disease/,70,p,2020-09-28 14:33,1,29.2 ℃,28.7 %,29.9 ℃,31.3 %,15720 lux,정상
+962,i1_73(1).jpg,https://www.bigdatahub.go.kr/images/disease/,73,p,2020-09-28 14:33,2,29.2 ℃,28.7 %,29.9 ℃,31.3 %,15720 lux,정상
+963,i1_74(1).jpg,https://www.bigdatahub.go.kr/images/disease/,74,p,2020-09-28 14:33,2,29.2 ℃,28.7 %,29.9 ℃,31.3 %,15720 lux,정상
+964,i1_75(1).jpg,https://www.bigdatahub.go.kr/images/disease/,75,p,2020-09-28 14:33,2,29.2 ℃,28.7 %,29.9 ℃,31.3 %,15720 lux,정상
+965,i1_76(1).jpg,https://www.bigdatahub.go.kr/images/disease/,76,p,2020-09-28 14:33,2,29.2 ℃,28.7 %,29.9 ℃,31.3 %,15720 lux,정상
+966,i1_77(1).jpg,https://www.bigdatahub.go.kr/images/disease/,77,p,2020-09-28 14:33,2,29.2 ℃,28.7 %,29.9 ℃,31.3 %,15720 lux,정상
+967,i1_78(1).jpg,https://www.bigdatahub.go.kr/images/disease/,78,p,2020-09-28 14:33,2,29.2 ℃,28.7 %,29.9 ℃,31.3 %,15720 lux,정상
+968,i1_79(1).jpg,https://www.bigdatahub.go.kr/images/disease/,79,p,2020-09-28 14:33,2,29.2 ℃,28.7 %,29.9 ℃,31.3 %,15720 lux,정상
+969,i1_80(1).jpg,https://www.bigdatahub.go.kr/images/disease/,80,p,2020-09-28 14:33,3,29.2 ℃,28.7 %,29.9 ℃,31.3 %,15720 lux,정상
+970,i1_100(1).jpg,https://www.bigdatahub.go.kr/images/disease/,100,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+971,i1_100(2).jpg,https://www.bigdatahub.go.kr/images/disease/,100,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+972,i1_100(3).jpg,https://www.bigdatahub.go.kr/images/disease/,100,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+973,i1_100(4).jpg,https://www.bigdatahub.go.kr/images/disease/,100,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+974,i1_100(5).jpg,https://www.bigdatahub.go.kr/images/disease/,100,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+975,i1_100(6).jpg,https://www.bigdatahub.go.kr/images/disease/,100,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+976,i1_100(7).jpg,https://www.bigdatahub.go.kr/images/disease/,100,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+977,i1_100(8).jpg,https://www.bigdatahub.go.kr/images/disease/,100,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+978,i1_100(9).jpg,https://www.bigdatahub.go.kr/images/disease/,100,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+979,i1_110(1).jpg,https://www.bigdatahub.go.kr/images/disease/,110,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+980,i1_110(2).jpg,https://www.bigdatahub.go.kr/images/disease/,110,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+981,i1_110(3).jpg,https://www.bigdatahub.go.kr/images/disease/,110,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+982,i1_110(4).jpg,https://www.bigdatahub.go.kr/images/disease/,110,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+983,i1_110(5).jpg,https://www.bigdatahub.go.kr/images/disease/,110,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+984,i1_110(6).jpg,https://www.bigdatahub.go.kr/images/disease/,110,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+985,i1_110(7).jpg,https://www.bigdatahub.go.kr/images/disease/,110,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+986,i1_110(8).jpg,https://www.bigdatahub.go.kr/images/disease/,110,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+987,i1_119(1).jpg,https://www.bigdatahub.go.kr/images/disease/,119,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+988,i1_119(2).jpg,https://www.bigdatahub.go.kr/images/disease/,119,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+989,i1_119(3).jpg,https://www.bigdatahub.go.kr/images/disease/,119,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+990,i1_119(4).jpg,https://www.bigdatahub.go.kr/images/disease/,119,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+991,i1_119(5).jpg,https://www.bigdatahub.go.kr/images/disease/,119,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+992,i1_119(6).jpg,https://www.bigdatahub.go.kr/images/disease/,119,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+993,i1_119(7).jpg,https://www.bigdatahub.go.kr/images/disease/,119,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+994,i1_119(8).jpg,https://www.bigdatahub.go.kr/images/disease/,119,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+995,i1_119(9).jpg,https://www.bigdatahub.go.kr/images/disease/,119,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+996,i1_125(1).jpg,https://www.bigdatahub.go.kr/images/disease/,125,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+997,i1_125(2).jpg,https://www.bigdatahub.go.kr/images/disease/,125,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+998,i1_125(3).jpg,https://www.bigdatahub.go.kr/images/disease/,125,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+999,i1_125(4).jpg,https://www.bigdatahub.go.kr/images/disease/,125,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+1000,i1_125(5).jpg,https://www.bigdatahub.go.kr/images/disease/,125,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+1001,i1_125(6).jpg,https://www.bigdatahub.go.kr/images/disease/,125,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+1002,i1_125(7).jpg,https://www.bigdatahub.go.kr/images/disease/,125,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+1003,i1_125(8).jpg,https://www.bigdatahub.go.kr/images/disease/,125,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+1004,i1_125(9).jpg,https://www.bigdatahub.go.kr/images/disease/,125,p,2020-11-25 14:01,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+1005,i1_128(1).jpg,https://www.bigdatahub.go.kr/images/disease/,128,p,2020-11-25 14:01,2,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+1006,i1_129(1).jpg,https://www.bigdatahub.go.kr/images/disease/,129,p,2020-11-25 14:01,2,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+1007,i1_130(1).jpg,https://www.bigdatahub.go.kr/images/disease/,130,p,2020-11-25 14:01,2,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+1008,i1_131(1).jpg,https://www.bigdatahub.go.kr/images/disease/,131,p,2020-11-25 14:01,2,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+1009,j1_28(2).jpg,https://www.bigdatahub.go.kr/images/disease/,28,2,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+1010,j1_28(3).jpg,https://www.bigdatahub.go.kr/images/disease/,28,3,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+1011,j1_28(4).jpg,https://www.bigdatahub.go.kr/images/disease/,28,4,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+1012,j1_28(5).jpg,https://www.bigdatahub.go.kr/images/disease/,28,5,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+1013,j1_28(6).jpg,https://www.bigdatahub.go.kr/images/disease/,28,6,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+1014,j1_28(7).jpg,https://www.bigdatahub.go.kr/images/disease/,28,7,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+1015,j1_28(8).jpg,https://www.bigdatahub.go.kr/images/disease/,28,8,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+1016,j1_28(9).jpg,https://www.bigdatahub.go.kr/images/disease/,28,9,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+1017,j1_46(2).jpg,https://www.bigdatahub.go.kr/images/disease/,46,2,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+1018,j1_46(3).jpg,https://www.bigdatahub.go.kr/images/disease/,46,3,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+1019,j1_46(4).jpg,https://www.bigdatahub.go.kr/images/disease/,46,4,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+1020,j1_46(5).jpg,https://www.bigdatahub.go.kr/images/disease/,46,5,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+1021,j1_46(6).jpg,https://www.bigdatahub.go.kr/images/disease/,46,6,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+1022,j1_46(7).jpg,https://www.bigdatahub.go.kr/images/disease/,46,7,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+1023,j1_46(8).jpg,https://www.bigdatahub.go.kr/images/disease/,46,8,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+1024,j1_46(9).jpg,https://www.bigdatahub.go.kr/images/disease/,46,9,2020-09-24-13:59,1,30.8 ℃,33.6 %,29.8 ℃,38.0 %,8720 lux,정상
+1025,j1_89(1).jpg,https://www.bigdatahub.go.kr/images/disease/,89,1,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1026,j1_89(2).jpg,https://www.bigdatahub.go.kr/images/disease/,89,2,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1027,j1_89(3).jpg,https://www.bigdatahub.go.kr/images/disease/,89,3,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1028,j1_89(4).jpg,https://www.bigdatahub.go.kr/images/disease/,89,4,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1029,j1_89(5).jpg,https://www.bigdatahub.go.kr/images/disease/,89,5,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1030,j1_89(6).jpg,https://www.bigdatahub.go.kr/images/disease/,89,6,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1031,j1_89(7).jpg,https://www.bigdatahub.go.kr/images/disease/,89,7,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1032,j1_89(8).jpg,https://www.bigdatahub.go.kr/images/disease/,89,8,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1033,j1_89(9).jpg,https://www.bigdatahub.go.kr/images/disease/,89,9,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1034,j1_90(1).jpg,https://www.bigdatahub.go.kr/images/disease/,90,1,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1035,j1_90(2).jpg,https://www.bigdatahub.go.kr/images/disease/,90,2,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1036,j1_90(3).jpg,https://www.bigdatahub.go.kr/images/disease/,90,3,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1037,j1_90(4).jpg,https://www.bigdatahub.go.kr/images/disease/,90,4,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1038,j1_90(5).jpg,https://www.bigdatahub.go.kr/images/disease/,90,5,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1039,j1_90(6).jpg,https://www.bigdatahub.go.kr/images/disease/,90,6,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1040,j1_90(7).jpg,https://www.bigdatahub.go.kr/images/disease/,90,7,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1041,j1_90(8).jpg,https://www.bigdatahub.go.kr/images/disease/,90,8,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1042,j1_90(9).jpg,https://www.bigdatahub.go.kr/images/disease/,90,9,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1043,j1_92(1).jpg,https://www.bigdatahub.go.kr/images/disease/,92,1,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1044,j1_92(2).jpg,https://www.bigdatahub.go.kr/images/disease/,92,2,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1045,j1_92(3).jpg,https://www.bigdatahub.go.kr/images/disease/,92,3,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1046,j1_92(4).jpg,https://www.bigdatahub.go.kr/images/disease/,92,4,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1047,j1_92(5).jpg,https://www.bigdatahub.go.kr/images/disease/,92,5,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1048,j1_92(6).jpg,https://www.bigdatahub.go.kr/images/disease/,92,6,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1049,j1_92(7).jpg,https://www.bigdatahub.go.kr/images/disease/,92,7,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1050,j1_92(8).jpg,https://www.bigdatahub.go.kr/images/disease/,92,8,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1051,j1_92(9).jpg,https://www.bigdatahub.go.kr/images/disease/,92,9,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1052,j1_93(1).jpg,https://www.bigdatahub.go.kr/images/disease/,93,1,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1053,j1_93(2).jpg,https://www.bigdatahub.go.kr/images/disease/,93,2,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1054,j1_93(3).jpg,https://www.bigdatahub.go.kr/images/disease/,93,3,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1055,j1_93(4).jpg,https://www.bigdatahub.go.kr/images/disease/,93,4,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1056,j1_93(5).jpg,https://www.bigdatahub.go.kr/images/disease/,93,5,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1057,j1_93(6).jpg,https://www.bigdatahub.go.kr/images/disease/,93,6,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1058,j1_93(7).jpg,https://www.bigdatahub.go.kr/images/disease/,93,7,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1059,j1_93(8).jpg,https://www.bigdatahub.go.kr/images/disease/,93,8,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1060,j1_93(9).jpg,https://www.bigdatahub.go.kr/images/disease/,93,9,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1061,j1_94(1).jpg,https://www.bigdatahub.go.kr/images/disease/,94,1,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1062,j1_94(2).jpg,https://www.bigdatahub.go.kr/images/disease/,94,2,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1063,j1_94(3).jpg,https://www.bigdatahub.go.kr/images/disease/,94,3,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1064,j1_94(4).jpg,https://www.bigdatahub.go.kr/images/disease/,94,4,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1065,j1_94(5).jpg,https://www.bigdatahub.go.kr/images/disease/,94,5,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1066,j1_94(6).jpg,https://www.bigdatahub.go.kr/images/disease/,94,6,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1067,j1_94(7).jpg,https://www.bigdatahub.go.kr/images/disease/,94,7,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1068,j1_94(8).jpg,https://www.bigdatahub.go.kr/images/disease/,94,8,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1069,j1_94(9).jpg,https://www.bigdatahub.go.kr/images/disease/,94,9,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1070,j1_96(1).jpg,https://www.bigdatahub.go.kr/images/disease/,96,1,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1071,j1_96(2).jpg,https://www.bigdatahub.go.kr/images/disease/,96,2,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1072,j1_96(3).jpg,https://www.bigdatahub.go.kr/images/disease/,96,3,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1073,j1_96(4).jpg,https://www.bigdatahub.go.kr/images/disease/,96,4,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1074,j1_96(5).jpg,https://www.bigdatahub.go.kr/images/disease/,96,5,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1075,j1_96(6).jpg,https://www.bigdatahub.go.kr/images/disease/,96,6,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1076,j1_96(7).jpg,https://www.bigdatahub.go.kr/images/disease/,96,7,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1077,j1_96(8).jpg,https://www.bigdatahub.go.kr/images/disease/,96,8,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1078,j1_96(9).jpg,https://www.bigdatahub.go.kr/images/disease/,96,9,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1079,j1_97(1).jpg,https://www.bigdatahub.go.kr/images/disease/,97,1,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1080,j1_97(2).jpg,https://www.bigdatahub.go.kr/images/disease/,97,2,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1081,j1_97(3).jpg,https://www.bigdatahub.go.kr/images/disease/,97,3,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1082,j1_97(4).jpg,https://www.bigdatahub.go.kr/images/disease/,97,4,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1083,j1_97(5).jpg,https://www.bigdatahub.go.kr/images/disease/,97,5,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1084,j1_97(6).jpg,https://www.bigdatahub.go.kr/images/disease/,97,6,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1085,j1_97(7).jpg,https://www.bigdatahub.go.kr/images/disease/,97,7,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1086,j1_97(8).jpg,https://www.bigdatahub.go.kr/images/disease/,97,8,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1087,j1_97(9).jpg,https://www.bigdatahub.go.kr/images/disease/,97,9,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1088,j1_98(1).jpg,https://www.bigdatahub.go.kr/images/disease/,98,1,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1089,j1_98(2).jpg,https://www.bigdatahub.go.kr/images/disease/,98,2,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1090,j1_98(3).jpg,https://www.bigdatahub.go.kr/images/disease/,98,3,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1091,j1_98(4).jpg,https://www.bigdatahub.go.kr/images/disease/,98,4,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1092,j1_98(5).jpg,https://www.bigdatahub.go.kr/images/disease/,98,5,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1093,j1_98(6).jpg,https://www.bigdatahub.go.kr/images/disease/,98,6,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1094,j1_98(7).jpg,https://www.bigdatahub.go.kr/images/disease/,98,7,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1095,j1_98(8).jpg,https://www.bigdatahub.go.kr/images/disease/,98,8,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1096,j1_98(9).jpg,https://www.bigdatahub.go.kr/images/disease/,98,9,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1097,j1_99(1).jpg,https://www.bigdatahub.go.kr/images/disease/,99,1,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1098,j1_99(2).jpg,https://www.bigdatahub.go.kr/images/disease/,99,2,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1099,j1_99(3).jpg,https://www.bigdatahub.go.kr/images/disease/,99,3,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1100,j1_99(4).jpg,https://www.bigdatahub.go.kr/images/disease/,99,4,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1101,j1_99(5).jpg,https://www.bigdatahub.go.kr/images/disease/,99,5,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1102,j1_99(6).jpg,https://www.bigdatahub.go.kr/images/disease/,99,6,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1103,j1_99(7).jpg,https://www.bigdatahub.go.kr/images/disease/,99,7,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1104,j1_99(8).jpg,https://www.bigdatahub.go.kr/images/disease/,99,8,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1105,j1_99(9).jpg,https://www.bigdatahub.go.kr/images/disease/,99,9,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1106,j1_100(1).jpg,https://www.bigdatahub.go.kr/images/disease/,100,1,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1107,j1_100(2).jpg,https://www.bigdatahub.go.kr/images/disease/,100,2,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1108,j1_100(3).jpg,https://www.bigdatahub.go.kr/images/disease/,100,3,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1109,j1_100(4).jpg,https://www.bigdatahub.go.kr/images/disease/,100,4,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1110,j1_100(5).jpg,https://www.bigdatahub.go.kr/images/disease/,100,5,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1111,j1_100(6).jpg,https://www.bigdatahub.go.kr/images/disease/,100,6,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1112,j1_100(7).jpg,https://www.bigdatahub.go.kr/images/disease/,100,7,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1113,j1_100(8).jpg,https://www.bigdatahub.go.kr/images/disease/,100,8,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1114,j1_100(9).jpg,https://www.bigdatahub.go.kr/images/disease/,100,9,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1115,j1_101(1).jpg,https://www.bigdatahub.go.kr/images/disease/,101,1,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1116,j1_101(2).jpg,https://www.bigdatahub.go.kr/images/disease/,101,2,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1117,j1_101(3).jpg,https://www.bigdatahub.go.kr/images/disease/,101,3,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1118,j1_101(4).jpg,https://www.bigdatahub.go.kr/images/disease/,101,4,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1119,j1_101(5).jpg,https://www.bigdatahub.go.kr/images/disease/,101,5,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1120,j1_101(6).jpg,https://www.bigdatahub.go.kr/images/disease/,101,6,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1121,j1_101(7).jpg,https://www.bigdatahub.go.kr/images/disease/,101,7,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1122,j1_101(8).jpg,https://www.bigdatahub.go.kr/images/disease/,101,8,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1123,j1_101(9).jpg,https://www.bigdatahub.go.kr/images/disease/,101,9,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1124,j1_103(1).jpg,https://www.bigdatahub.go.kr/images/disease/,103,1,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1125,j1_103(2).jpg,https://www.bigdatahub.go.kr/images/disease/,103,2,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1126,j1_103(3).jpg,https://www.bigdatahub.go.kr/images/disease/,103,3,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1127,j1_103(4).jpg,https://www.bigdatahub.go.kr/images/disease/,103,4,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1128,j1_103(5).jpg,https://www.bigdatahub.go.kr/images/disease/,103,5,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1129,j1_103(6).jpg,https://www.bigdatahub.go.kr/images/disease/,103,6,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1130,j1_103(7).jpg,https://www.bigdatahub.go.kr/images/disease/,103,7,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1131,j1_103(8).jpg,https://www.bigdatahub.go.kr/images/disease/,103,8,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1132,j1_103(9).jpg,https://www.bigdatahub.go.kr/images/disease/,103,9,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1133,j1_104(1).jpg,https://www.bigdatahub.go.kr/images/disease/,104,1,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1134,j1_104(2).jpg,https://www.bigdatahub.go.kr/images/disease/,104,2,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1135,j1_104(3).jpg,https://www.bigdatahub.go.kr/images/disease/,104,3,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1136,j1_104(4).jpg,https://www.bigdatahub.go.kr/images/disease/,104,4,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1137,j1_104(5).jpg,https://www.bigdatahub.go.kr/images/disease/,104,5,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1138,j1_104(6).jpg,https://www.bigdatahub.go.kr/images/disease/,104,6,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1139,j1_104(7).jpg,https://www.bigdatahub.go.kr/images/disease/,104,7,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1140,j1_104(8).jpg,https://www.bigdatahub.go.kr/images/disease/,104,8,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1141,j1_104(9).jpg,https://www.bigdatahub.go.kr/images/disease/,104,9,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1142,j1_105(1).jpg,https://www.bigdatahub.go.kr/images/disease/,105,1,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1143,j1_105(2).jpg,https://www.bigdatahub.go.kr/images/disease/,105,2,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1144,j1_105(3).jpg,https://www.bigdatahub.go.kr/images/disease/,105,3,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1145,j1_105(4).jpg,https://www.bigdatahub.go.kr/images/disease/,105,4,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1146,j1_105(5).jpg,https://www.bigdatahub.go.kr/images/disease/,105,5,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1147,j1_105(6).jpg,https://www.bigdatahub.go.kr/images/disease/,105,6,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1148,j1_105(7).jpg,https://www.bigdatahub.go.kr/images/disease/,105,7,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1149,j1_105(8).jpg,https://www.bigdatahub.go.kr/images/disease/,105,8,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1150,j1_105(9).jpg,https://www.bigdatahub.go.kr/images/disease/,105,9,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1151,j1_106(1).jpg,https://www.bigdatahub.go.kr/images/disease/,106,1,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1152,j1_106(2).jpg,https://www.bigdatahub.go.kr/images/disease/,106,2,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1153,j1_106(3).jpg,https://www.bigdatahub.go.kr/images/disease/,106,3,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1154,j1_106(4).jpg,https://www.bigdatahub.go.kr/images/disease/,106,4,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1155,j1_106(5).jpg,https://www.bigdatahub.go.kr/images/disease/,106,5,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1156,j1_106(6).jpg,https://www.bigdatahub.go.kr/images/disease/,106,6,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1157,j1_106(7).jpg,https://www.bigdatahub.go.kr/images/disease/,106,7,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1158,j1_106(8).jpg,https://www.bigdatahub.go.kr/images/disease/,106,8,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1159,j1_106(9).jpg,https://www.bigdatahub.go.kr/images/disease/,106,9,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1160,j1_107(1).jpg,https://www.bigdatahub.go.kr/images/disease/,107,1,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1161,j1_107(2).jpg,https://www.bigdatahub.go.kr/images/disease/,107,2,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1162,j1_107(3).jpg,https://www.bigdatahub.go.kr/images/disease/,107,3,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1163,j1_107(4).jpg,https://www.bigdatahub.go.kr/images/disease/,107,4,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1164,j1_107(5).jpg,https://www.bigdatahub.go.kr/images/disease/,107,5,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1165,j1_107(6).jpg,https://www.bigdatahub.go.kr/images/disease/,107,6,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1166,j1_107(7).jpg,https://www.bigdatahub.go.kr/images/disease/,107,7,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1167,j1_107(8).jpg,https://www.bigdatahub.go.kr/images/disease/,107,8,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1168,j1_107(9).jpg,https://www.bigdatahub.go.kr/images/disease/,107,9,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1169,j1_108(1).jpg,https://www.bigdatahub.go.kr/images/disease/,108,1,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1170,j1_108(2).jpg,https://www.bigdatahub.go.kr/images/disease/,108,2,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1171,j1_108(3).jpg,https://www.bigdatahub.go.kr/images/disease/,108,3,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1172,j1_108(4).jpg,https://www.bigdatahub.go.kr/images/disease/,108,4,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1173,j1_108(5).jpg,https://www.bigdatahub.go.kr/images/disease/,108,5,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1174,j1_108(6).jpg,https://www.bigdatahub.go.kr/images/disease/,108,6,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1175,j1_108(7).jpg,https://www.bigdatahub.go.kr/images/disease/,108,7,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1176,j1_108(8).jpg,https://www.bigdatahub.go.kr/images/disease/,108,8,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1177,j1_108(9).jpg,https://www.bigdatahub.go.kr/images/disease/,108,9,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1178,j1_109(1).jpg,https://www.bigdatahub.go.kr/images/disease/,109,1,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1179,j1_109(2).jpg,https://www.bigdatahub.go.kr/images/disease/,109,2,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1180,j1_109(3).jpg,https://www.bigdatahub.go.kr/images/disease/,109,3,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1181,j1_109(4).jpg,https://www.bigdatahub.go.kr/images/disease/,109,4,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1182,j1_109(5).jpg,https://www.bigdatahub.go.kr/images/disease/,109,5,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1183,j1_109(6).jpg,https://www.bigdatahub.go.kr/images/disease/,109,6,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1184,j1_109(7).jpg,https://www.bigdatahub.go.kr/images/disease/,109,7,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1185,j1_109(8).jpg,https://www.bigdatahub.go.kr/images/disease/,109,8,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1186,j1_109(9).jpg,https://www.bigdatahub.go.kr/images/disease/,109,9,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1187,j1_110(1).jpg,https://www.bigdatahub.go.kr/images/disease/,110,1,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1188,j1_110(2).jpg,https://www.bigdatahub.go.kr/images/disease/,110,2,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1189,j1_110(3).jpg,https://www.bigdatahub.go.kr/images/disease/,110,3,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1190,j1_110(4).jpg,https://www.bigdatahub.go.kr/images/disease/,110,4,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1191,j1_110(5).jpg,https://www.bigdatahub.go.kr/images/disease/,110,5,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1192,j1_110(6).jpg,https://www.bigdatahub.go.kr/images/disease/,110,6,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1193,j1_110(7).jpg,https://www.bigdatahub.go.kr/images/disease/,110,7,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1194,j1_110(8).jpg,https://www.bigdatahub.go.kr/images/disease/,110,8,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1195,j1_110(9).jpg,https://www.bigdatahub.go.kr/images/disease/,110,9,2020-10-07-14:05,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1196,j1_111(1).jpg,https://www.bigdatahub.go.kr/images/disease/,111,1,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1197,j1_111(2).jpg,https://www.bigdatahub.go.kr/images/disease/,111,2,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1198,j1_111(3).jpg,https://www.bigdatahub.go.kr/images/disease/,111,3,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1199,j1_111(4).jpg,https://www.bigdatahub.go.kr/images/disease/,111,4,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1200,j1_111(5).jpg,https://www.bigdatahub.go.kr/images/disease/,111,5,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1201,j1_111(6).jpg,https://www.bigdatahub.go.kr/images/disease/,111,6,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1202,j1_111(7).jpg,https://www.bigdatahub.go.kr/images/disease/,111,7,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1203,j1_111(8).jpg,https://www.bigdatahub.go.kr/images/disease/,111,8,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1204,j1_111(9).jpg,https://www.bigdatahub.go.kr/images/disease/,111,9,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1205,j1_112(1).jpg,https://www.bigdatahub.go.kr/images/disease/,112,1,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1206,j1_112(2).jpg,https://www.bigdatahub.go.kr/images/disease/,112,2,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1207,j1_112(3).jpg,https://www.bigdatahub.go.kr/images/disease/,112,3,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1208,j1_112(4).jpg,https://www.bigdatahub.go.kr/images/disease/,112,4,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1209,j1_112(5).jpg,https://www.bigdatahub.go.kr/images/disease/,112,5,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1210,j1_112(6).jpg,https://www.bigdatahub.go.kr/images/disease/,112,6,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1211,j1_112(7).jpg,https://www.bigdatahub.go.kr/images/disease/,112,7,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1212,j1_112(8).jpg,https://www.bigdatahub.go.kr/images/disease/,112,8,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1213,j1_112(9).jpg,https://www.bigdatahub.go.kr/images/disease/,112,9,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1214,j1_113(1).jpg,https://www.bigdatahub.go.kr/images/disease/,113,1,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1215,j1_113(2).jpg,https://www.bigdatahub.go.kr/images/disease/,113,2,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1216,j1_113(3).jpg,https://www.bigdatahub.go.kr/images/disease/,113,3,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1217,j1_113(4).jpg,https://www.bigdatahub.go.kr/images/disease/,113,4,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1218,j1_113(5).jpg,https://www.bigdatahub.go.kr/images/disease/,113,5,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1219,j1_113(6).jpg,https://www.bigdatahub.go.kr/images/disease/,113,6,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1220,j1_113(7).jpg,https://www.bigdatahub.go.kr/images/disease/,113,7,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1221,j1_113(8).jpg,https://www.bigdatahub.go.kr/images/disease/,113,8,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1222,j1_113(9).jpg,https://www.bigdatahub.go.kr/images/disease/,113,9,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1223,j1_114(1).jpg,https://www.bigdatahub.go.kr/images/disease/,114,1,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1224,j1_114(2).jpg,https://www.bigdatahub.go.kr/images/disease/,114,2,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1225,j1_114(3).jpg,https://www.bigdatahub.go.kr/images/disease/,114,3,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1226,j1_114(4).jpg,https://www.bigdatahub.go.kr/images/disease/,114,4,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1227,j1_114(5).jpg,https://www.bigdatahub.go.kr/images/disease/,114,5,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1228,j1_114(6).jpg,https://www.bigdatahub.go.kr/images/disease/,114,6,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1229,j1_114(7).jpg,https://www.bigdatahub.go.kr/images/disease/,114,7,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1230,j1_114(8).jpg,https://www.bigdatahub.go.kr/images/disease/,114,8,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1231,j1_114(9).jpg,https://www.bigdatahub.go.kr/images/disease/,114,9,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1232,j1_115(1).jpg,https://www.bigdatahub.go.kr/images/disease/,115,1,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1233,j1_115(2).jpg,https://www.bigdatahub.go.kr/images/disease/,115,2,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1234,j1_115(3).jpg,https://www.bigdatahub.go.kr/images/disease/,115,3,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1235,j1_115(4).jpg,https://www.bigdatahub.go.kr/images/disease/,115,4,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1236,j1_115(5).jpg,https://www.bigdatahub.go.kr/images/disease/,115,5,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1237,j1_115(6).jpg,https://www.bigdatahub.go.kr/images/disease/,115,6,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1238,j1_115(7).jpg,https://www.bigdatahub.go.kr/images/disease/,115,7,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1239,j1_115(8).jpg,https://www.bigdatahub.go.kr/images/disease/,115,8,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1240,j1_115(9).jpg,https://www.bigdatahub.go.kr/images/disease/,115,9,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1241,j1_116(1).jpg,https://www.bigdatahub.go.kr/images/disease/,116,1,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1242,j1_116(2).jpg,https://www.bigdatahub.go.kr/images/disease/,116,2,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1243,j1_116(3).jpg,https://www.bigdatahub.go.kr/images/disease/,116,3,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1244,j1_116(4).jpg,https://www.bigdatahub.go.kr/images/disease/,116,4,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1245,j1_116(5).jpg,https://www.bigdatahub.go.kr/images/disease/,116,5,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1246,j1_116(6).jpg,https://www.bigdatahub.go.kr/images/disease/,116,6,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1247,j1_116(7).jpg,https://www.bigdatahub.go.kr/images/disease/,116,7,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1248,j1_116(8).jpg,https://www.bigdatahub.go.kr/images/disease/,116,8,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1249,j1_116(9).jpg,https://www.bigdatahub.go.kr/images/disease/,116,9,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1250,j1_117(1).jpg,https://www.bigdatahub.go.kr/images/disease/,117,1,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1251,j1_117(2).jpg,https://www.bigdatahub.go.kr/images/disease/,117,2,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1252,j1_117(3).jpg,https://www.bigdatahub.go.kr/images/disease/,117,3,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1253,j1_117(4).jpg,https://www.bigdatahub.go.kr/images/disease/,117,4,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1254,j1_117(5).jpg,https://www.bigdatahub.go.kr/images/disease/,117,5,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1255,j1_117(6).jpg,https://www.bigdatahub.go.kr/images/disease/,117,6,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1256,j1_117(7).jpg,https://www.bigdatahub.go.kr/images/disease/,117,7,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1257,j1_117(8).jpg,https://www.bigdatahub.go.kr/images/disease/,117,8,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1258,j1_117(9).jpg,https://www.bigdatahub.go.kr/images/disease/,117,9,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1259,j1_119(1).jpg,https://www.bigdatahub.go.kr/images/disease/,119,1,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1260,j1_119(2).jpg,https://www.bigdatahub.go.kr/images/disease/,119,2,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1261,j1_119(3).jpg,https://www.bigdatahub.go.kr/images/disease/,119,3,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1262,j1_119(4).jpg,https://www.bigdatahub.go.kr/images/disease/,119,4,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1263,j1_119(5).jpg,https://www.bigdatahub.go.kr/images/disease/,119,5,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1264,j1_119(6).jpg,https://www.bigdatahub.go.kr/images/disease/,119,6,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1265,j1_119(7).jpg,https://www.bigdatahub.go.kr/images/disease/,119,7,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1266,j1_119(8).jpg,https://www.bigdatahub.go.kr/images/disease/,119,8,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1267,j1_119(9).jpg,https://www.bigdatahub.go.kr/images/disease/,119,9,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1268,j1_121(1).jpg,https://www.bigdatahub.go.kr/images/disease/,121,1,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1269,j1_121(2).jpg,https://www.bigdatahub.go.kr/images/disease/,121,2,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1270,j1_121(3).jpg,https://www.bigdatahub.go.kr/images/disease/,121,3,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1271,j1_121(4).jpg,https://www.bigdatahub.go.kr/images/disease/,121,4,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1272,j1_121(5).jpg,https://www.bigdatahub.go.kr/images/disease/,121,5,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1273,j1_121(6).jpg,https://www.bigdatahub.go.kr/images/disease/,121,6,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1274,j1_121(7).jpg,https://www.bigdatahub.go.kr/images/disease/,121,7,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1275,j1_121(8).jpg,https://www.bigdatahub.go.kr/images/disease/,121,8,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1276,j1_121(9).jpg,https://www.bigdatahub.go.kr/images/disease/,121,9,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1277,j1_122(1).jpg,https://www.bigdatahub.go.kr/images/disease/,122,1,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1278,j1_122(2).jpg,https://www.bigdatahub.go.kr/images/disease/,122,2,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1279,j1_122(3).jpg,https://www.bigdatahub.go.kr/images/disease/,122,3,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1280,j1_122(4).jpg,https://www.bigdatahub.go.kr/images/disease/,122,4,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1281,j1_122(5).jpg,https://www.bigdatahub.go.kr/images/disease/,122,5,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1282,j1_122(6).jpg,https://www.bigdatahub.go.kr/images/disease/,122,6,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1283,j1_122(7).jpg,https://www.bigdatahub.go.kr/images/disease/,122,7,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1284,j1_122(8).jpg,https://www.bigdatahub.go.kr/images/disease/,122,8,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1285,j1_122(9).jpg,https://www.bigdatahub.go.kr/images/disease/,122,9,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1286,j1_123(1).jpg,https://www.bigdatahub.go.kr/images/disease/,123,1,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1287,j1_123(2).jpg,https://www.bigdatahub.go.kr/images/disease/,123,2,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1288,j1_123(3).jpg,https://www.bigdatahub.go.kr/images/disease/,123,3,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1289,j1_123(4).jpg,https://www.bigdatahub.go.kr/images/disease/,123,4,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1290,j1_123(5).jpg,https://www.bigdatahub.go.kr/images/disease/,123,5,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1291,j1_123(6).jpg,https://www.bigdatahub.go.kr/images/disease/,123,6,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1292,j1_123(7).jpg,https://www.bigdatahub.go.kr/images/disease/,123,7,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1293,j1_123(8).jpg,https://www.bigdatahub.go.kr/images/disease/,123,8,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1294,j1_123(9).jpg,https://www.bigdatahub.go.kr/images/disease/,123,9,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1295,j1_124(1).jpg,https://www.bigdatahub.go.kr/images/disease/,124,1,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1296,j1_124(2).jpg,https://www.bigdatahub.go.kr/images/disease/,124,2,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1297,j1_124(3).jpg,https://www.bigdatahub.go.kr/images/disease/,124,3,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1298,j1_124(4).jpg,https://www.bigdatahub.go.kr/images/disease/,124,4,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1299,j1_124(5).jpg,https://www.bigdatahub.go.kr/images/disease/,124,5,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1300,j1_124(6).jpg,https://www.bigdatahub.go.kr/images/disease/,124,6,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1301,j1_124(7).jpg,https://www.bigdatahub.go.kr/images/disease/,124,7,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1302,j1_124(8).jpg,https://www.bigdatahub.go.kr/images/disease/,124,8,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1303,j1_124(9).jpg,https://www.bigdatahub.go.kr/images/disease/,124,9,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1304,j1_125(1).jpg,https://www.bigdatahub.go.kr/images/disease/,125,1,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1305,j1_125(2).jpg,https://www.bigdatahub.go.kr/images/disease/,125,2,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1306,j1_125(3).jpg,https://www.bigdatahub.go.kr/images/disease/,125,3,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1307,j1_125(4).jpg,https://www.bigdatahub.go.kr/images/disease/,125,4,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1308,j1_125(5).jpg,https://www.bigdatahub.go.kr/images/disease/,125,5,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1309,j1_125(6).jpg,https://www.bigdatahub.go.kr/images/disease/,125,6,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1310,j1_125(7).jpg,https://www.bigdatahub.go.kr/images/disease/,125,7,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1311,j1_125(8).jpg,https://www.bigdatahub.go.kr/images/disease/,125,8,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1312,j1_125(9).jpg,https://www.bigdatahub.go.kr/images/disease/,125,9,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1313,j1_126(1).jpg,https://www.bigdatahub.go.kr/images/disease/,126,1,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1314,j1_126(2).jpg,https://www.bigdatahub.go.kr/images/disease/,126,2,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1315,j1_126(3).jpg,https://www.bigdatahub.go.kr/images/disease/,126,3,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1316,j1_126(4).jpg,https://www.bigdatahub.go.kr/images/disease/,126,4,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1317,j1_126(5).jpg,https://www.bigdatahub.go.kr/images/disease/,126,5,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1318,j1_126(6).jpg,https://www.bigdatahub.go.kr/images/disease/,126,6,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1319,j1_126(7).jpg,https://www.bigdatahub.go.kr/images/disease/,126,7,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1320,j1_126(8).jpg,https://www.bigdatahub.go.kr/images/disease/,126,8,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1321,j1_126(9).jpg,https://www.bigdatahub.go.kr/images/disease/,126,9,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1322,j1_127(1).jpg,https://www.bigdatahub.go.kr/images/disease/,127,1,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1323,j1_127(2).jpg,https://www.bigdatahub.go.kr/images/disease/,127,2,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1324,j1_127(3).jpg,https://www.bigdatahub.go.kr/images/disease/,127,3,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1325,j1_127(4).jpg,https://www.bigdatahub.go.kr/images/disease/,127,4,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1326,j1_127(5).jpg,https://www.bigdatahub.go.kr/images/disease/,127,5,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1327,j1_127(6).jpg,https://www.bigdatahub.go.kr/images/disease/,127,6,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1328,j1_127(7).jpg,https://www.bigdatahub.go.kr/images/disease/,127,7,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1329,j1_127(8).jpg,https://www.bigdatahub.go.kr/images/disease/,127,8,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1330,j1_127(9).jpg,https://www.bigdatahub.go.kr/images/disease/,127,9,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1331,j1_128(1).jpg,https://www.bigdatahub.go.kr/images/disease/,128,1,2020-10-07-14:32,2,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1332,j1_129(1).jpg,https://www.bigdatahub.go.kr/images/disease/,129,1,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1333,j1_129(2).jpg,https://www.bigdatahub.go.kr/images/disease/,129,2,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1334,j1_129(3).jpg,https://www.bigdatahub.go.kr/images/disease/,129,3,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1335,j1_129(4).jpg,https://www.bigdatahub.go.kr/images/disease/,129,4,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1336,j1_129(5).jpg,https://www.bigdatahub.go.kr/images/disease/,129,5,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1337,j1_129(6).jpg,https://www.bigdatahub.go.kr/images/disease/,129,6,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1338,j1_129(7).jpg,https://www.bigdatahub.go.kr/images/disease/,129,7,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1339,j1_129(8).jpg,https://www.bigdatahub.go.kr/images/disease/,129,8,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1340,j1_129(9).jpg,https://www.bigdatahub.go.kr/images/disease/,129,9,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1341,j1_130(1).jpg,https://www.bigdatahub.go.kr/images/disease/,130,1,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1342,j1_130(2).jpg,https://www.bigdatahub.go.kr/images/disease/,130,2,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1343,j1_130(3).jpg,https://www.bigdatahub.go.kr/images/disease/,130,3,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1344,j1_130(4).jpg,https://www.bigdatahub.go.kr/images/disease/,130,4,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1345,j1_130(5).jpg,https://www.bigdatahub.go.kr/images/disease/,130,5,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1346,j1_130(6).jpg,https://www.bigdatahub.go.kr/images/disease/,130,6,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1347,j1_130(7).jpg,https://www.bigdatahub.go.kr/images/disease/,130,7,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1348,j1_130(8).jpg,https://www.bigdatahub.go.kr/images/disease/,130,8,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1349,j1_130(9).jpg,https://www.bigdatahub.go.kr/images/disease/,130,9,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1350,j1_131(1).jpg,https://www.bigdatahub.go.kr/images/disease/,131,1,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1351,j1_131(2).jpg,https://www.bigdatahub.go.kr/images/disease/,131,2,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1352,j1_131(3).jpg,https://www.bigdatahub.go.kr/images/disease/,131,3,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1353,j1_131(4).jpg,https://www.bigdatahub.go.kr/images/disease/,131,4,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1354,j1_131(5).jpg,https://www.bigdatahub.go.kr/images/disease/,131,5,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1355,j1_131(6).jpg,https://www.bigdatahub.go.kr/images/disease/,131,6,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1356,j1_131(7).jpg,https://www.bigdatahub.go.kr/images/disease/,131,7,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1357,j1_131(8).jpg,https://www.bigdatahub.go.kr/images/disease/,131,8,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1358,j1_131(9).jpg,https://www.bigdatahub.go.kr/images/disease/,131,9,2020-10-07-14:32,1,27.0 ℃,26.5 %,31.2 ℃,34.1 %,16060 lux,정상
+1359,j1_133(1).jpg,https://www.bigdatahub.go.kr/images/disease/,133,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1360,j1_133(2).jpg,https://www.bigdatahub.go.kr/images/disease/,133,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1361,j1_133(3).jpg,https://www.bigdatahub.go.kr/images/disease/,133,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1362,j1_133(4).jpg,https://www.bigdatahub.go.kr/images/disease/,133,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1363,j1_133(5).jpg,https://www.bigdatahub.go.kr/images/disease/,133,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1364,j1_133(6).jpg,https://www.bigdatahub.go.kr/images/disease/,133,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1365,j1_133(7).jpg,https://www.bigdatahub.go.kr/images/disease/,133,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1366,j1_133(8).jpg,https://www.bigdatahub.go.kr/images/disease/,133,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1367,j1_133(9).jpg,https://www.bigdatahub.go.kr/images/disease/,133,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1368,j1_136(1).jpg,https://www.bigdatahub.go.kr/images/disease/,136,1,2020-11-25 14:05,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+1369,j1_136(2).jpg,https://www.bigdatahub.go.kr/images/disease/,136,2,2020-11-25 14:05,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+1370,j1_136(3).jpg,https://www.bigdatahub.go.kr/images/disease/,136,3,2020-11-25 14:05,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+1371,j1_136(4).jpg,https://www.bigdatahub.go.kr/images/disease/,136,4,2020-11-25 14:05,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+1372,j1_136(5).jpg,https://www.bigdatahub.go.kr/images/disease/,136,5,2020-11-25 14:05,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+1373,j1_136(6).jpg,https://www.bigdatahub.go.kr/images/disease/,136,6,2020-11-25 14:05,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+1374,j1_136(7).jpg,https://www.bigdatahub.go.kr/images/disease/,136,7,2020-11-25 14:05,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+1375,j1_136(8).jpg,https://www.bigdatahub.go.kr/images/disease/,136,8,2020-11-25 14:05,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+1376,j1_136(9).jpg,https://www.bigdatahub.go.kr/images/disease/,136,9,2020-11-25 14:05,1,20.8 ℃,28.6 %,28.8 ℃,42.8 %,10410 lux,정상
+1377,k1_15(1).jpg,https://www.bigdatahub.go.kr/images/disease/,15,1,2020-09-24 13:59,1,31.1 ℃,37.3 %,33.6 ℃,36.1 %,8660 lux,정상
+1378,k1_15(2).jpg,https://www.bigdatahub.go.kr/images/disease/,15,2,2020-09-24 13:59,1,31.1 ℃,37.3 %,33.6 ℃,36.1 %,8660 lux,정상
+1379,k1_15(3).jpg,https://www.bigdatahub.go.kr/images/disease/,15,3,2020-09-24 13:59,1,31.1 ℃,37.3 %,33.6 ℃,36.1 %,8660 lux,정상
+1380,k1_15(4).jpg,https://www.bigdatahub.go.kr/images/disease/,15,4,2020-09-24 13:59,1,31.1 ℃,37.3 %,33.6 ℃,36.1 %,8660 lux,정상
+1381,k1_15(5).jpg,https://www.bigdatahub.go.kr/images/disease/,15,5,2020-09-24 13:59,1,31.1 ℃,37.3 %,33.6 ℃,36.1 %,8660 lux,정상
+1382,k1_15(6).jpg,https://www.bigdatahub.go.kr/images/disease/,15,6,2020-09-24 13:59,1,31.1 ℃,37.3 %,33.6 ℃,36.1 %,8660 lux,정상
+1383,k1_15(7).jpg,https://www.bigdatahub.go.kr/images/disease/,15,7,2020-09-24 13:59,1,31.1 ℃,37.3 %,33.6 ℃,36.1 %,8660 lux,정상
+1384,k1_15(8).jpg,https://www.bigdatahub.go.kr/images/disease/,15,8,2020-09-24 13:59,1,31.1 ℃,37.3 %,33.6 ℃,36.1 %,8660 lux,정상
+1385,k1_15(9).jpg,https://www.bigdatahub.go.kr/images/disease/,15,9,2020-09-24 13:59,1,31.1 ℃,37.3 %,33.6 ℃,36.1 %,8660 lux,정상
+1386,k1_44(1).jpg,https://www.bigdatahub.go.kr/images/disease/,44,1,2020-09-28 14:32,1,28.1 ℃,39.1 %,28.6 ℃,39.6 %,9100 lux,정상
+1387,k1_44(2).jpg,https://www.bigdatahub.go.kr/images/disease/,44,2,2020-09-28 14:32,1,28.1 ℃,39.1 %,28.6 ℃,39.6 %,9100 lux,정상
+1388,k1_44(3).jpg,https://www.bigdatahub.go.kr/images/disease/,44,3,2020-09-28 14:32,1,28.1 ℃,39.1 %,28.6 ℃,39.6 %,9100 lux,정상
+1389,k1_44(4).jpg,https://www.bigdatahub.go.kr/images/disease/,44,4,2020-09-28 14:32,1,28.1 ℃,39.1 %,28.6 ℃,39.6 %,9100 lux,정상
+1390,k1_44(5).jpg,https://www.bigdatahub.go.kr/images/disease/,44,5,2020-09-28 14:32,1,28.1 ℃,39.1 %,28.6 ℃,39.6 %,9100 lux,정상
+1391,k1_44(6).jpg,https://www.bigdatahub.go.kr/images/disease/,44,6,2020-09-28 14:32,1,28.1 ℃,39.1 %,28.6 ℃,39.6 %,9100 lux,정상
+1392,k1_44(7).jpg,https://www.bigdatahub.go.kr/images/disease/,44,7,2020-09-28 14:32,1,28.1 ℃,39.1 %,28.6 ℃,39.6 %,9100 lux,정상
+1393,k1_44(8).jpg,https://www.bigdatahub.go.kr/images/disease/,44,8,2020-09-28 14:32,1,28.1 ℃,39.1 %,28.6 ℃,39.6 %,9100 lux,정상
+1394,k1_44(9).jpg,https://www.bigdatahub.go.kr/images/disease/,44,9,2020-09-28 14:32,1,28.1 ℃,39.1 %,28.6 ℃,39.6 %,9100 lux,정상
+1395,k1_49(1).jpg,https://www.bigdatahub.go.kr/images/disease/,49,1,2020-10-07 14:03,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1396,k1_49(2).jpg,https://www.bigdatahub.go.kr/images/disease/,49,2,2020-10-07 14:03,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1397,k1_49(3).jpg,https://www.bigdatahub.go.kr/images/disease/,49,3,2020-10-07 14:03,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1398,k1_49(4).jpg,https://www.bigdatahub.go.kr/images/disease/,49,4,2020-10-07 14:03,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1399,k1_49(5).jpg,https://www.bigdatahub.go.kr/images/disease/,49,5,2020-10-07 14:03,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1400,k1_49(6).jpg,https://www.bigdatahub.go.kr/images/disease/,49,6,2020-10-07 14:03,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1401,k1_49(7).jpg,https://www.bigdatahub.go.kr/images/disease/,49,7,2020-10-07 14:03,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1402,k1_49(8).jpg,https://www.bigdatahub.go.kr/images/disease/,49,8,2020-10-07 14:03,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1403,k1_49(9).jpg,https://www.bigdatahub.go.kr/images/disease/,49,9,2020-10-07 14:03,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1404,k1_51(1).jpg,https://www.bigdatahub.go.kr/images/disease/,51,1,2020-10-07 14:03,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1405,k1_51(2).jpg,https://www.bigdatahub.go.kr/images/disease/,51,2,2020-10-07 14:03,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1406,k1_51(3).jpg,https://www.bigdatahub.go.kr/images/disease/,51,3,2020-10-07 14:03,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1407,k1_51(4).jpg,https://www.bigdatahub.go.kr/images/disease/,51,4,2020-10-07 14:03,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1408,k1_51(5).jpg,https://www.bigdatahub.go.kr/images/disease/,51,5,2020-10-07 14:03,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1409,k1_51(6).jpg,https://www.bigdatahub.go.kr/images/disease/,51,6,2020-10-07 14:03,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1410,k1_51(7).jpg,https://www.bigdatahub.go.kr/images/disease/,51,7,2020-10-07 14:03,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1411,k1_51(8).jpg,https://www.bigdatahub.go.kr/images/disease/,51,8,2020-10-07 14:03,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1412,k1_51(9).jpg,https://www.bigdatahub.go.kr/images/disease/,51,9,2020-10-07 14:03,1,27.0 ℃,26.5 %,27.3 ℃,31.3 %,15550 lux,정상
+1413,k1_53(1).jpg,https://www.bigdatahub.go.kr/images/disease/,53,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1414,k1_53(2).jpg,https://www.bigdatahub.go.kr/images/disease/,53,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1415,k1_53(3).jpg,https://www.bigdatahub.go.kr/images/disease/,53,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1416,k1_53(4).jpg,https://www.bigdatahub.go.kr/images/disease/,53,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1417,k1_53(5).jpg,https://www.bigdatahub.go.kr/images/disease/,53,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1418,k1_53(6).jpg,https://www.bigdatahub.go.kr/images/disease/,53,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1419,k1_53(7).jpg,https://www.bigdatahub.go.kr/images/disease/,53,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1420,k1_53(8).jpg,https://www.bigdatahub.go.kr/images/disease/,53,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1421,k1_53(9).jpg,https://www.bigdatahub.go.kr/images/disease/,53,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1422,k1_55(1).jpg,https://www.bigdatahub.go.kr/images/disease/,55,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1423,k1_55(2).jpg,https://www.bigdatahub.go.kr/images/disease/,55,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1424,k1_55(3).jpg,https://www.bigdatahub.go.kr/images/disease/,55,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1425,k1_55(4).jpg,https://www.bigdatahub.go.kr/images/disease/,55,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1426,k1_55(5).jpg,https://www.bigdatahub.go.kr/images/disease/,55,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1427,k1_55(6).jpg,https://www.bigdatahub.go.kr/images/disease/,55,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1428,k1_55(7).jpg,https://www.bigdatahub.go.kr/images/disease/,55,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1429,k1_55(8).jpg,https://www.bigdatahub.go.kr/images/disease/,55,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1430,k1_55(9).jpg,https://www.bigdatahub.go.kr/images/disease/,55,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1431,k1_57(1).jpg,https://www.bigdatahub.go.kr/images/disease/,57,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1432,k1_57(2).jpg,https://www.bigdatahub.go.kr/images/disease/,57,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1433,k1_57(3).jpg,https://www.bigdatahub.go.kr/images/disease/,57,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1434,k1_57(4).jpg,https://www.bigdatahub.go.kr/images/disease/,57,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1435,k1_57(5).jpg,https://www.bigdatahub.go.kr/images/disease/,57,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1436,k1_57(6).jpg,https://www.bigdatahub.go.kr/images/disease/,57,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1437,k1_57(7).jpg,https://www.bigdatahub.go.kr/images/disease/,57,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1438,k1_57(8).jpg,https://www.bigdatahub.go.kr/images/disease/,57,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1439,k1_57(9).jpg,https://www.bigdatahub.go.kr/images/disease/,57,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1440,k1_58(1).jpg,https://www.bigdatahub.go.kr/images/disease/,58,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1441,k1_58(2).jpg,https://www.bigdatahub.go.kr/images/disease/,58,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1442,k1_58(3).jpg,https://www.bigdatahub.go.kr/images/disease/,58,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1443,k1_58(4).jpg,https://www.bigdatahub.go.kr/images/disease/,58,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1444,k1_58(5).jpg,https://www.bigdatahub.go.kr/images/disease/,58,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1445,k1_58(6).jpg,https://www.bigdatahub.go.kr/images/disease/,58,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1446,k1_58(7).jpg,https://www.bigdatahub.go.kr/images/disease/,58,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1447,k1_58(8).jpg,https://www.bigdatahub.go.kr/images/disease/,58,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1448,k1_58(9).jpg,https://www.bigdatahub.go.kr/images/disease/,58,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1449,k1_62(1).jpg,https://www.bigdatahub.go.kr/images/disease/,62,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1450,k1_62(2).jpg,https://www.bigdatahub.go.kr/images/disease/,62,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1451,k1_62(3).jpg,https://www.bigdatahub.go.kr/images/disease/,62,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1452,k1_62(4).jpg,https://www.bigdatahub.go.kr/images/disease/,62,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1453,k1_62(5).jpg,https://www.bigdatahub.go.kr/images/disease/,62,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1454,k1_62(6).jpg,https://www.bigdatahub.go.kr/images/disease/,62,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1455,k1_62(7).jpg,https://www.bigdatahub.go.kr/images/disease/,62,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1456,k1_62(8).jpg,https://www.bigdatahub.go.kr/images/disease/,62,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1457,k1_62(9).jpg,https://www.bigdatahub.go.kr/images/disease/,62,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1458,k1_68(1).jpg,https://www.bigdatahub.go.kr/images/disease/,68,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1459,k1_68(2).jpg,https://www.bigdatahub.go.kr/images/disease/,68,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1460,k1_68(3).jpg,https://www.bigdatahub.go.kr/images/disease/,68,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1461,k1_68(4).jpg,https://www.bigdatahub.go.kr/images/disease/,68,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1462,k1_68(5).jpg,https://www.bigdatahub.go.kr/images/disease/,68,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1463,k1_68(6).jpg,https://www.bigdatahub.go.kr/images/disease/,68,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1464,k1_68(7).jpg,https://www.bigdatahub.go.kr/images/disease/,68,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1465,k1_68(8).jpg,https://www.bigdatahub.go.kr/images/disease/,68,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1466,k1_68(9).jpg,https://www.bigdatahub.go.kr/images/disease/,68,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1467,k1_75(1).jpg,https://www.bigdatahub.go.kr/images/disease/,75,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1468,k1_75(2).jpg,https://www.bigdatahub.go.kr/images/disease/,75,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1469,k1_75(3).jpg,https://www.bigdatahub.go.kr/images/disease/,75,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1470,k1_75(4).jpg,https://www.bigdatahub.go.kr/images/disease/,75,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1471,k1_75(5).jpg,https://www.bigdatahub.go.kr/images/disease/,75,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1472,k1_75(6).jpg,https://www.bigdatahub.go.kr/images/disease/,75,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1473,k1_75(7).jpg,https://www.bigdatahub.go.kr/images/disease/,75,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1474,k1_75(8).jpg,https://www.bigdatahub.go.kr/images/disease/,75,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1475,k1_75(9).jpg,https://www.bigdatahub.go.kr/images/disease/,75,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1476,k1_76(1).jpg,https://www.bigdatahub.go.kr/images/disease/,76,1,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1477,k1_76(2).jpg,https://www.bigdatahub.go.kr/images/disease/,76,2,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1478,k1_76(3).jpg,https://www.bigdatahub.go.kr/images/disease/,76,3,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1479,k1_76(4).jpg,https://www.bigdatahub.go.kr/images/disease/,76,4,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1480,k1_76(5).jpg,https://www.bigdatahub.go.kr/images/disease/,76,5,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1481,k1_76(6).jpg,https://www.bigdatahub.go.kr/images/disease/,76,6,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1482,k1_76(7).jpg,https://www.bigdatahub.go.kr/images/disease/,76,7,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1483,k1_76(8).jpg,https://www.bigdatahub.go.kr/images/disease/,76,8,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1484,k1_76(9).jpg,https://www.bigdatahub.go.kr/images/disease/,76,9,2020-10-12 11:50,1,23.3 ℃,42.3 %,31.7 ℃,52.3 %,13740 lux,정상
+1485,k1_80(1).jpg,https://www.bigdatahub.go.kr/images/disease/,80,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1486,k1_80(2).jpg,https://www.bigdatahub.go.kr/images/disease/,80,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1487,k1_80(3).jpg,https://www.bigdatahub.go.kr/images/disease/,80,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1488,k1_80(4).jpg,https://www.bigdatahub.go.kr/images/disease/,80,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1489,k1_80(5).jpg,https://www.bigdatahub.go.kr/images/disease/,80,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1490,k1_80(6).jpg,https://www.bigdatahub.go.kr/images/disease/,80,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1491,k1_80(7).jpg,https://www.bigdatahub.go.kr/images/disease/,80,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1492,k1_80(8).jpg,https://www.bigdatahub.go.kr/images/disease/,80,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1493,k1_80(9).jpg,https://www.bigdatahub.go.kr/images/disease/,80,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1494,k1_82(1).jpg,https://www.bigdatahub.go.kr/images/disease/,82,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1495,k1_82(2).jpg,https://www.bigdatahub.go.kr/images/disease/,82,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1496,k1_82(3).jpg,https://www.bigdatahub.go.kr/images/disease/,82,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1497,k1_82(4).jpg,https://www.bigdatahub.go.kr/images/disease/,82,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1498,k1_82(5).jpg,https://www.bigdatahub.go.kr/images/disease/,82,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1499,k1_82(6).jpg,https://www.bigdatahub.go.kr/images/disease/,82,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1500,k1_82(7).jpg,https://www.bigdatahub.go.kr/images/disease/,82,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1501,k1_82(8).jpg,https://www.bigdatahub.go.kr/images/disease/,82,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1502,k1_82(9).jpg,https://www.bigdatahub.go.kr/images/disease/,82,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1503,k1_88(1).jpg,https://www.bigdatahub.go.kr/images/disease/,88,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1504,k1_88(2).jpg,https://www.bigdatahub.go.kr/images/disease/,88,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1505,k1_88(3).jpg,https://www.bigdatahub.go.kr/images/disease/,88,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1506,k1_88(4).jpg,https://www.bigdatahub.go.kr/images/disease/,88,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1507,k1_88(5).jpg,https://www.bigdatahub.go.kr/images/disease/,88,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1508,k1_88(6).jpg,https://www.bigdatahub.go.kr/images/disease/,88,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1509,k1_88(7).jpg,https://www.bigdatahub.go.kr/images/disease/,88,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1510,k1_88(8).jpg,https://www.bigdatahub.go.kr/images/disease/,88,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1511,k1_88(9).jpg,https://www.bigdatahub.go.kr/images/disease/,88,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1512,k1_90(1).jpg,https://www.bigdatahub.go.kr/images/disease/,90,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1513,k1_90(2).jpg,https://www.bigdatahub.go.kr/images/disease/,90,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1514,k1_90(3).jpg,https://www.bigdatahub.go.kr/images/disease/,90,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1515,k1_90(4).jpg,https://www.bigdatahub.go.kr/images/disease/,90,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1516,k1_90(5).jpg,https://www.bigdatahub.go.kr/images/disease/,90,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1517,k1_90(6).jpg,https://www.bigdatahub.go.kr/images/disease/,90,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1518,k1_90(7).jpg,https://www.bigdatahub.go.kr/images/disease/,90,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1519,k1_90(8).jpg,https://www.bigdatahub.go.kr/images/disease/,90,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1520,k1_90(9).jpg,https://www.bigdatahub.go.kr/images/disease/,90,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1521,k1_92(1).jpg,https://www.bigdatahub.go.kr/images/disease/,92,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1522,k1_92(2).jpg,https://www.bigdatahub.go.kr/images/disease/,92,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1523,k1_92(3).jpg,https://www.bigdatahub.go.kr/images/disease/,92,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1524,k1_92(4).jpg,https://www.bigdatahub.go.kr/images/disease/,92,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1525,k1_92(5).jpg,https://www.bigdatahub.go.kr/images/disease/,92,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1526,k1_92(6).jpg,https://www.bigdatahub.go.kr/images/disease/,92,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1527,k1_92(7).jpg,https://www.bigdatahub.go.kr/images/disease/,92,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1528,k1_92(8).jpg,https://www.bigdatahub.go.kr/images/disease/,92,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1529,k1_92(9).jpg,https://www.bigdatahub.go.kr/images/disease/,92,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1530,k1_94(1).jpg,https://www.bigdatahub.go.kr/images/disease/,94,1,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1531,k1_94(2).jpg,https://www.bigdatahub.go.kr/images/disease/,94,2,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1532,k1_94(3).jpg,https://www.bigdatahub.go.kr/images/disease/,94,3,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1533,k1_94(4).jpg,https://www.bigdatahub.go.kr/images/disease/,94,4,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1534,k1_94(5).jpg,https://www.bigdatahub.go.kr/images/disease/,94,5,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1535,k1_94(6).jpg,https://www.bigdatahub.go.kr/images/disease/,94,6,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1536,k1_94(7).jpg,https://www.bigdatahub.go.kr/images/disease/,94,7,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1537,k1_94(8).jpg,https://www.bigdatahub.go.kr/images/disease/,94,8,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
+1538,k1_94(9).jpg,https://www.bigdatahub.go.kr/images/disease/,94,9,2020-10-12 12:15,1,23.3 ℃,42.3 %,38.4 ℃,37.5 %,15610 lux,정상
